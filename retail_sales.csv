@@ -1,0 +1,1516 @@
+Order ID,Order Date,Customer ID,Segment,Region,Category,Sub-Category,Quantity,Unit Price,Discount,Sales,Profit
+ORD-00001,10-08-2024,CUST-234,Home Office,East,Furniture,Chairs,1,4385,0.2,3508,238
+ORD-00002,26-09-2024,CUST-233,Consumer,South,Office Supplies,Paper,4,459,0,1836,728
+ORD-00003,27-07-2024,CUST-134,Consumer,South,Technology,Copiers,6,21739,0.1,117391,19019
+ORD-00004,21-12-2024,CUST-163,Consumer,West,Technology,Phones,2,16945,0,33890,6752
+ORD-00005,11-06-2025,CUST-122,Consumer,West,Technology,Phones,3,15007,0.3,31515,-528
+ORD-00006,16-07-2024,CUST-108,Home Office,West,Office Supplies,Binders,2,250,0,500,157
+ORD-00007,01-10-2024,CUST-025,Corporate,North,Furniture,Chairs,2,5070,0,10140,1517
+ORD-00008,25-11-2025,CUST-020,Consumer,North,Office Supplies,Paper,5,401,0.2,1604,408
+ORD-00009,17-02-2024,CUST-052,Consumer,North,Furniture,Tables,3,8834,0.1,23852,-73
+ORD-00010,11-12-2024,CUST-202,Consumer,West,Furniture,Chairs,2,4193,0.3,5870,-180
+ORD-00011,03-07-2025,CUST-028,Home Office,West,Technology,Accessories,7,1571,0,10997,3193
+ORD-00012,16-05-2024,CUST-051,Corporate,East,Office Supplies,Storage,2,1225,0.3,1715,-104
+ORD-00013,16-02-2024,CUST-138,Consumer,West,Office Supplies,Paper,2,366,0,732,302
+ORD-00014,06-05-2024,CUST-048,Consumer,North,Office Supplies,Paper,7,425,0,2975,1214
+ORD-00015,20-11-2025,CUST-034,Consumer,East,Office Supplies,Paper,4,417,0.1,1501,510
+ORD-00016,10-01-2024,CUST-144,Consumer,North,Office Supplies,Binders,1,242,0,242,60
+ORD-00017,15-06-2024,CUST-092,Home Office,South,Technology,Accessories,3,1277,0.1,3448,771
+ORD-00018,31-01-2024,CUST-157,Corporate,West,Furniture,Tables,4,8856,0,35424,1639
+ORD-00019,13-04-2024,CUST-224,Consumer,West,Office Supplies,Binders,2,213,0,426,137
+ORD-00020,22-04-2025,CUST-029,Corporate,North,Technology,Accessories,4,1309,0.2,4189,422
+ORD-00021,27-07-2024,CUST-224,Consumer,South,Technology,Accessories,5,1469,0,7345,1575
+ORD-00022,08-03-2025,CUST-221,Consumer,East,Technology,Phones,2,13119,0.2,20990,2504
+ORD-00023,26-03-2025,CUST-201,Corporate,North,Furniture,Tables,6,8394,0.2,40291,-3574
+ORD-00024,13-10-2025,CUST-159,Consumer,East,Office Supplies,Storage,4,1256,0,5024,776
+ORD-00025,05-01-2024,CUST-156,Consumer,East,Office Supplies,Binders,7,236,0.2,1322,243
+ORD-00026,15-10-2025,CUST-161,Home Office,South,Technology,Copiers,1,28732,0,28732,8257
+ORD-00027,21-04-2025,CUST-172,Home Office,South,Technology,Phones,3,16873,0,50619,9043
+ORD-00028,26-05-2024,CUST-003,Consumer,South,Office Supplies,Binders,6,256,0,1536,401
+ORD-00029,21-08-2025,CUST-240,Corporate,West,Technology,Accessories,7,1710,0.3,8379,583
+ORD-00030,17-10-2025,CUST-151,Consumer,South,Technology,Phones,2,16656,0.1,29981,2624
+ORD-00031,06-08-2024,CUST-193,Corporate,East,Technology,Accessories,7,1419,0.1,8940,1593
+ORD-00032,20-11-2025,CUST-094,Consumer,South,Furniture,Bookcases,2,6449,0.4,7739,-869
+ORD-00033,07-12-2024,CUST-002,Corporate,West,Furniture,Chairs,3,4010,0,12030,1896
+ORD-00034,07-04-2025,CUST-128,Consumer,North,Technology,Accessories,3,1583,0.3,3324,85
+ORD-00035,23-12-2025,CUST-128,Home Office,North,Office Supplies,Binders,3,249,0.2,598,123
+ORD-00036,20-10-2024,CUST-112,Home Office,West,Furniture,Chairs,7,3848,0.4,16162,-1458
+ORD-00037,19-09-2025,CUST-083,Consumer,West,Office Supplies,Binders,6,233,0.3,979,102
+ORD-00038,23-09-2024,CUST-059,Corporate,South,Office Supplies,Binders,6,284,0.4,1022,84
+ORD-00039,09-09-2025,CUST-134,Consumer,South,Furniture,Bookcases,2,5668,0,11336,1077
+ORD-00040,05-04-2025,CUST-094,Corporate,West,Technology,Copiers,7,22611,0.2,126622,18364
+ORD-00041,07-07-2024,CUST-243,Consumer,North,Furniture,Tables,4,8156,0.3,22837,-1474
+ORD-00042,17-11-2024,CUST-036,Consumer,North,Office Supplies,Paper,5,398,0.1,1791,572
+ORD-00043,22-09-2024,CUST-077,Corporate,East,Office Supplies,Paper,5,441,0,2205,833
+ORD-00044,15-03-2024,CUST-068,Consumer,South,Technology,Phones,5,16161,0.4,48483,-3498
+ORD-00045,30-01-2024,CUST-137,Corporate,East,Furniture,Chairs,5,4415,0,22075,4093
+ORD-00046,11-10-2024,CUST-127,Corporate,West,Office Supplies,Storage,4,1095,,3942,174
+ORD-00047,19-01-2024,CUST-164,Consumer,East,Technology,Accessories,5,1296,0.1,5832,838
+ORD-00048,28-05-2024,CUST-238,Consumer,East,Office Supplies,Storage,7,1187,0,8309,828
+ORD-00049,14-07-2025,CUST-067,Corporate,East,Office Supplies,Paper,3,438,0.2,1051,315
+ORD-00050,01-07-2025,CUST-172,Corporate,West,Office Supplies,Binders,4,267,0,1068,347
+ORD-00051,25-07-2025,CUST-005,Consumer,North,Office Supplies,Paper,2,389,0.2,622,157
+ORD-00052,22-09-2024,CUST-061,Consumer,South,Furniture,Tables,3,9256,0.3,19438,-1532
+ORD-00053,05-11-2025,CUST-122,Corporate,West,Technology,Phones,6,14713,0,88278,17871
+ORD-00054,30-03-2025,CUST-006,Corporate,South,Technology,Accessories,5,1536,0.2,6144,750
+ORD-00055,26-04-2024,CUST-156,Home Office,North,Technology,Accessories,2,1508,0,3016,739
+ORD-00056,11-05-2024,CUST-172,Consumer,South,Furniture,Chairs,4,4744,0.3,13283,-267
+ORD-00057,19-06-2025,CUST-182,Corporate,West,Technology,Accessories,6,1503,0.4,5411,-81
+ORD-00058,03-06-2024,CUST-130,Corporate,North,Furniture,Tables,1,10190,0,10190,613
+ORD-00059,07-01-2025,CUST-153,Consumer,West,Office Supplies,Paper,1,391,0.2,313,84
+ORD-00060,27-12-2025,CUST-100,Consumer,West,Office Supplies,Paper,3,342,0.1,923,249
+ORD-00061,04-01-2024,CUST-007,Consumer,East,Office Supplies,Storage,5,1105,0.1,4972,270
+ORD-00062,17-01-2024,CUST-021,Home Office,South,Office Supplies,Paper,3,400,0.2,960,241
+ORD-00063,28-12-2025,CUST-168,Consumer,West,Technology,Phones,6,15183,0.1,81988,12367
+ORD-00064,22-03-2025,CUST-248,Corporate,North,Office Supplies,Storage,6,1219,0.1,6583,31
+ORD-00065,27-04-2024,CUST-002,Corporate,West,Technology,Phones,4,15965,0,63860,10764
+ORD-00066,09-11-2025,CUST-142,Consumer,West,Furniture,Bookcases,3,5594,0,16782,1436
+ORD-00067,01-11-2025,CUST-184,Home Office,North,Office Supplies,Storage,1,1259,0.3,881,-27
+ORD-00068,05-02-2025,CUST-200,Corporate,West,Technology,Phones,6,15918,0,95508,17067
+ORD-00069,23-04-2025,CUST-138,Consumer,East,Furniture,Chairs,7,4380,0.1,27594,3970
+ORD-00070,20-08-2024,CUST-156,Corporate,East,Technology,Accessories,4,1456,,5824,1572
+ORD-00071,19-02-2024,CUST-173,Consumer,East,Office Supplies,Binders,4,226,0.3,633,68
+ORD-00072,30-03-2025,CUST-209,Consumer,East,Furniture,Tables,6,8768,0.1,47347,340
+ORD-00073,06-09-2024,CUST-026,Corporate,West,Technology,Accessories,5,1629,0,8145,1950
+ORD-00074,27-05-2025,CUST-229,Corporate,West,Furniture,Tables,1,10104,0,10104,867
+ORD-00075,05-10-2025,CUST-005,Consumer,South,Office Supplies,Paper,5,411,0,2055,699
+ORD-00076,18-01-2024,CUST-202,Home Office,East,Technology,Accessories,7,1410,0.4,5922,-87
+ORD-00077,31-03-2025,CUST-017,Corporate,West,Furniture,Bookcases,6,6328,0.1,34171,1834
+ORD-00078,19-07-2024,CUST-041,Corporate,West,Furniture,Bookcases,4,6432,0.1,23155,1778
+ORD-00079,28-10-2025,CUST-001,Consumer,East,Technology,Copiers,4,23742,0.2,75974,8657
+ORD-00080,05-08-2024,CUST-115,Consumer,South,Office Supplies,Paper,2,439,0,878,370
+ORD-00081,13-04-2025,CUST-082,Consumer,West,Office Supplies,Storage,5,1047,0,5235,606
+ORD-00082,22-02-2025,CUST-034,Corporate,South,Technology,Phones,2,12798,0,25596,3161
+ORD-00083,08-11-2024,CUST-117,Consumer,North,Furniture,Tables,3,7982,0,23946,-720
+ORD-00084,07-06-2025,CUST-102,Corporate,East,Office Supplies,Binders,2,224,0.2,358,48
+ORD-00085,15-07-2025,CUST-189,Consumer,South,Technology,Copiers,3,27842,0.3,58468,6982
+ORD-00086,06-03-2025,CUST-217,Corporate,North,Office Supplies,Paper,3,391,0.3,821,163
+ORD-00087,09-08-2025,CUST-167,Corporate,North,Furniture,Chairs,1,4196,0.3,2937,-32
+ORD-00088,23-12-2025,CUST-027,Corporate,West,Furniture,Bookcases,6,5872,0.1,31709,746
+ORD-00089,20-11-2024,CUST-068,Corporate,West,Office Supplies,Paper,4,387,0,1548,537
+ORD-00090,14-01-2025,CUST-224,Home Office,East,Office Supplies,Binders,7,235,0.1,1480,337
+ORD-00091,13-01-2024,CUST-019,Consumer,North,Technology,Phones,2,13371,0.4,16045,-947
+ORD-00092,07-09-2025,CUST-104,Corporate,West,Office Supplies,Binders,5,262,0.2,1048,196
+ORD-00093,20-01-2025,CUST-235,Home Office,South,Office Supplies,Binders,2,223,0.1,401,87
+ORD-00094,14-11-2024,CUST-238,Corporate,West,Technology,Phones,4,16239,0.2,51965,4523
+ORD-00095,29-03-2024,CUST-105,Consumer,East,Office Supplies,Storage,4,1093,0.2,3498,-65
+ORD-00096,05-11-2025,CUST-172,Home Office,South,Furniture,Bookcases,4,6416,0.3,17965,-1906
+ORD-00097,08-11-2024,CUST-120,Consumer,East,Furniture,Bookcases,5,6550,0.2,26200,-950
+ORD-00098,11-06-2025,CUST-185,Consumer,South,Office Supplies,Paper,6,355,0,2130,878
+ORD-00099,15-05-2024,CUST-006,Consumer,West,Technology,Copiers,3,21901,0,65703,19449
+ORD-00100,11-12-2025,CUST-027,Consumer,North,Furniture,Tables,6,10214,0.1,55156,-1149
+ORD-00101,07-06-2024,CUST-154,Consumer,West,Office Supplies,Binders,2,247,0,494,162
+ORD-00102,24-06-2024,CUST-052,Consumer,West,Furniture,Tables,3,9352,0.4,16834,-1948
+ORD-00103,19-10-2025,CUST-172,Home Office,West,Office Supplies,Binders,3,214,0.1,578,142
+ORD-00104,17-11-2025,CUST-086,Consumer,West,Furniture,Chairs,7,4201,0.1,26466,3362
+ORD-00105,03-07-2024,CUST-215,Consumer,South,Office Supplies,Binders,1,250,0,250,83
+ORD-00106,15-12-2024,CUST-199,Home Office,East,Office Supplies,Binders,3,279,0.1,753,167
+ORD-00107,21-07-2025,CUST-125,Corporate,West,Office Supplies,Binders,3,233,0.1,629,151
+ORD-00108,31-10-2025,CUST-190,Consumer,South,Technology,Copiers,6,27064,0,162384,42467
+ORD-00109,31-10-2024,CUST-063,Consumer,North,Technology,Accessories,4,1573,0.3,4404,281
+ORD-00110,17-01-2025,CUST-126,Corporate,South,Office Supplies,Paper,7,354,0,2478,895
+ORD-00111,27-07-2025,CUST-042,Home Office,South,Furniture,Bookcases,6,5628,0,33768,2969
+ORD-00112,19-07-2025,CUST-210,Corporate,West,Office Supplies,Binders,5,230,0,1150,319
+ORD-00113,29-08-2025,CUST-199,Consumer,East,Technology,Copiers,6,24569,0.1,132673,30699
+ORD-00114,09-03-2025,CUST-220,Corporate,West,Technology,Accessories,2,1561,0.2,2498,365
+ORD-00115,08-04-2024,CUST-212,Corporate,West,Technology,Accessories,4,1470,0.3,4116,273
+ORD-00116,12-11-2025,CUST-240,Corporate,South,Technology,Copiers,5,23084,0,115420,28170
+ORD-00117,23-10-2025,CUST-051,Home Office,West,Furniture,Chairs,2,4764,0.4,5717,-642
+ORD-00118,09-09-2025,CUST-231,Corporate,North,Furniture,Tables,1,9228,0.2,7382,-779
+ORD-00119,03-04-2024,CUST-147,Corporate,North,Furniture,Bookcases,1,6035,0,6035,648
+ORD-00120,27-06-2024,CUST-108,Corporate,North,Furniture,Tables,6,9147,0,54882,4122
+ORD-00121,29-07-2025,CUST-143,Corporate,South,Technology,Phones,5,13749,0,68745,12903
+ORD-00122,23-01-2024,CUST-084,Corporate,South,Office Supplies,Paper,2,422,0.3,591,104
+ORD-00123,21-12-2025,CUST-067,Consumer,East,Technology,Copiers,6,24156,0,144936,44554
+ORD-00124,30-10-2024,CUST-056,Corporate,South,Technology,Accessories,5,1439,0.1,6476,1139
+ORD-00125,10-07-2025,CUST-018,Corporate,North,Office Supplies,Binders,6,224,0.2,1075,157
+ORD-00126,04-11-2025,CUST-127,Consumer,West,Technology,Copiers,7,25726,0.3,126057,17933
+ORD-00127,08-11-2024,CUST-216,Consumer,North,Furniture,Chairs,7,4639,0.2,25978,1417
+ORD-00128,23-09-2024,CUST-159,Corporate,West,Office Supplies,Paper,2,381,0.2,610,176
+ORD-00129,12-04-2025,CUST-133,Corporate,West,Technology,Copiers,6,27699,0,166194,46825
+ORD-00130,18-03-2025,CUST-111,Consumer,West,Technology,Copiers,3,27591,0.3,57941,9003
+ORD-00131,15-11-2024,CUST-122,Consumer,East,Technology,Copiers,3,22068,0,66204,18881
+ORD-00132,06-04-2025,CUST-046,Consumer,East,Technology,Accessories,5,1588,0,7940,2141
+ORD-00133,28-11-2025,CUST-199,Home Office,East,Furniture,Chairs,5,4357,0.4,13071,-1377
+ORD-00134,14-12-2024,CUST-042,Home Office,West,Technology,Copiers,3,28748,0,86244,25294
+ORD-00135,21-06-2024,CUST-178,Corporate,West,Office Supplies,Binders,7,229,0,1603,364
+ORD-00136,30-10-2024,CUST-186,Consumer,East,Furniture,Bookcases,2,5605,0.1,10089,312
+ORD-00137,07-11-2024,CUST-148,Corporate,East,Technology,Copiers,1,24566,0,24566,7437
+ORD-00138,01-05-2024,CUST-210,Corporate,West,Furniture,Chairs,1,4188,0,4188,577
+ORD-00139,26-05-2024,CUST-067,Home Office,North,Technology,Phones,6,15864,0.1,85666,14793
+ORD-00140,12-06-2025,CUST-214,Consumer,East,Technology,Phones,3,14914,0.2,35794,899
+ORD-00141,07-10-2024,CUST-179,Consumer,East,Office Supplies,Storage,4,1100,0.2,3520,-60
+ORD-00142,08-12-2025,CUST-197,Corporate,West,Furniture,Tables,5,9017,0,45085,1481
+ORD-00143,28-07-2024,CUST-172,Consumer,South,Furniture,Bookcases,4,6700,0.1,24120,557
+ORD-00144,03-04-2024,CUST-205,Corporate,South,Technology,Phones,5,16316,0.3,57106,1767
+ORD-00145,05-08-2025,CUST-247,Corporate,North,Office Supplies,Storage,1,1200,0,1200,197
+ORD-00146,01-11-2025,CUST-108,Consumer,East,Office Supplies,Binders,2,234,0,468,131
+ORD-00147,24-08-2024,CUST-198,Consumer,West,Furniture,Chairs,7,4068,0,28476,3654
+ORD-00148,26-06-2024,CUST-182,Corporate,West,Furniture,Bookcases,4,6681,0.1,24052,127
+ORD-00149,13-06-2024,CUST-118,Home Office,South,Office Supplies,Binders,2,266,0,532,180
+ORD-00150,22-01-2025,CUST-229,Consumer,South,Furniture,Chairs,3,4597,0.2,11033,702
+ORD-00151,15-12-2024,CUST-099,Consumer,West,Office Supplies,Binders,3,278,0.4,500,28
+ORD-00152,10-08-2024,CUST-145,Corporate,West,Furniture,Bookcases,2,5319,0,10638,618
+ORD-00153,14-02-2024,CUST-023,Consumer,East,Office Supplies,Storage,3,1266,0.1,3418,71
+ORD-00154,22-12-2024,CUST-051,Corporate,South,Furniture,Bookcases,6,5490,0,32940,3463
+ORD-00155,10-12-2025,CUST-204,Corporate,North,Technology,Phones,1,13293,0,13293,2612
+ORD-00156,18-05-2025,CUST-100,Consumer,West,Technology,Copiers,3,24742,0.2,59381,7008
+ORD-00157,29-12-2024,CUST-099,Corporate,East,Furniture,Tables,4,8696,0,34784,1752
+ORD-00158,13-04-2024,CUST-058,Consumer,South,Technology,Copiers,4,28309,0.4,67942,7375
+ORD-00159,04-08-2024,CUST-125,Consumer,West,Technology,Accessories,7,1421,0.1,8952,1642
+ORD-00160,06-09-2024,CUST-198,Corporate,East,Office Supplies,Binders,7,274,0,1918,661
+ORD-00161,14-08-2025,CUST-218,Home Office,West,Office Supplies,Storage,3,1290,0,3870,540
+ORD-00162,30-10-2025,CUST-014,Corporate,East,Technology,Copiers,4,26259,0,105036,28094
+ORD-00163,11-11-2025,CUST-148,Consumer,East,Technology,Phones,1,16892,0.3,11824,-104
+ORD-00164,23-12-2025,CUST-123,Corporate,West,Technology,Phones,5,14586,0.2,58344,3275
+ORD-00165,22-12-2025,CUST-154,Consumer,West,Technology,Phones,2,14504,0,29008,4393
+ORD-00166,07-12-2025,CUST-116,Corporate,West,Office Supplies,Binders,1,225,0.1,202,43
+ORD-00167,10-03-2024,CUST-101,Corporate,West,Furniture,Bookcases,5,5596,0.2,22384,564
+ORD-00168,06-05-2024,CUST-124,Consumer,East,Furniture,Tables,2,10025,0.2,16040,-1433
+ORD-00169,13-09-2024,CUST-150,Consumer,North,Technology,Phones,4,14885,0,59540,12644
+ORD-00170,21-02-2025,CUST-128,Home Office,South,Furniture,Chairs,1,4286,0,4286,587
+ORD-00171,01-04-2024,CUST-124,Consumer,West,Furniture,Chairs,6,4117,0,24702,3686
+ORD-00172,11-10-2025,CUST-199,Corporate,South,Furniture,Chairs,6,4480,0,26880,4485
+ORD-00173,19-04-2025,CUST-182,Corporate,West,Office Supplies,Paper,5,426,0.1,1917,579
+ORD-00174,11-02-2025,CUST-084,Corporate,West,Office Supplies,Paper,6,374,0,2244,891
+ORD-00175,28-05-2024,CUST-198,Consumer,West,Office Supplies,Paper,4,431,0,1724,549
+ORD-00176,05-08-2024,CUST-207,Consumer,West,Technology,Accessories,2,1558,0,3116,820
+ORD-00177,24-05-2024,CUST-030,Consumer,East,Office Supplies,Paper,2,435,0,870,266
+ORD-00178,15-10-2025,CUST-150,Corporate,East,Furniture,Tables,2,8327,0.3,11658,-1478
+ORD-00179,21-03-2025,CUST-067,Home Office,West,Office Supplies,Storage,2,1247,0.1,2245,192
+ORD-00180,22-07-2025,CUST-182,Home Office,North,Technology,Accessories,3,1344,0,4032,1083
+ORD-00181,07-09-2024,CUST-055,Consumer,North,Office Supplies,Storage,2,1151,0.1,2072,44
+ORD-00182,26-10-2024,CUST-172,Consumer,West,Furniture,Tables,5,9606,0,48030,1196
+ORD-00183,13-11-2024,CUST-060,Consumer,West,Technology,Accessories,2,1559,0.3,2183,108
+ORD-00184,11-08-2025,CUST-128,Home Office,East,Office Supplies,Paper,5,363,0.1,1634,532
+ORD-00185,20-08-2025,CUST-238,Consumer,North,Technology,Accessories,3,1661,0.1,4485,579
+ORD-00186,29-06-2024,CUST-094,Consumer,East,Technology,Accessories,5,1299,0.3,4546,316
+ORD-00187,01-12-2025,CUST-212,Corporate,West,Furniture,Tables,4,9257,0.3,25920,-2868
+ORD-00188,22-04-2024,CUST-247,Corporate,East,Technology,Phones,7,17177,0.3,84167,-715
+ORD-00189,08-11-2025,CUST-212,Consumer,South,Furniture,Bookcases,4,6057,0,24228,2805
+ORD-00190,04-04-2024,CUST-034,Corporate,East,Furniture,Bookcases,3,6541,0,19623,2094
+ORD-00191,14-08-2024,CUST-199,Consumer,West,Office Supplies,Paper,5,411,0.2,1644,401
+ORD-00192,11-10-2025,CUST-006,Consumer,West,Technology,Copiers,5,27123,0.1,122054,22203
+ORD-00193,08-06-2024,CUST-099,Consumer,South,Technology,Copiers,4,26167,0.2,83734,15407
+ORD-00194,17-11-2024,CUST-211,Consumer,East,Technology,Phones,4,15860,0.2,50752,1594
+ORD-00195,05-12-2024,CUST-172,Home Office,South,Office Supplies,Storage,4,1102,0,4408,452
+ORD-00196,30-07-2024,CUST-134,Corporate,East,Furniture,Chairs,3,4826,0,14478,2380
+ORD-00197,02-07-2025,CUST-097,Corporate,North,Technology,Phones,3,13821,0.1,37317,6065
+ORD-00198,14-10-2025,CUST-198,Consumer,East,Furniture,Tables,7,10298,0,72086,4243
+ORD-00199,28-10-2025,CUST-177,Corporate,East,Technology,Phones,5,13775,0.2,55100,4222
+ORD-00200,07-10-2024,CUST-124,Home Office,South,Office Supplies,Storage,1,1105,0.2,884,-38
+ORD-00201,30-01-2025,CUST-217,Consumer,South,Technology,Phones,7,16614,0.1,104668,13331
+ORD-00202,01-08-2024,CUST-051,Home Office,North,Office Supplies,Storage,5,1107,0.2,4428,-8
+ORD-00203,29-07-2024,CUST-035,Corporate,North,Technology,Accessories,1,1437,0.1,1293,293
+ORD-00204,24-05-2024,CUST-163,Corporate,West,Office Supplies,Paper,6,426,0.2,2045,499
+ORD-00205,30-11-2025,CUST-244,Consumer,South,Technology,Accessories,5,1346,0,6730,1634
+ORD-00206,04-11-2025,CUST-058,Corporate,North,Furniture,Bookcases,7,5386,0.2,30162,355
+ORD-00207,24-08-2025,CUST-059,Consumer,West,Office Supplies,Paper,4,398,0.2,1274,328
+ORD-00208,17-01-2025,CUST-027,Home Office,South,Office Supplies,Storage,4,1108,0,4432,384
+ORD-00209,26-12-2024,CUST-210,Home Office,West,Furniture,Bookcases,3,5524,0.1,14915,1738
+ORD-00210,29-01-2025,CUST-051,Consumer,East,Office Supplies,Binders,3,213,0.3,447,39
+ORD-00211,05-02-2025,CUST-128,Home Office,West,Furniture,Bookcases,5,5767,0,28835,2828
+ORD-00212,27-11-2024,CUST-247,Home Office,East,Office Supplies,Paper,6,378,0.2,1814,491
+ORD-00213,01-05-2024,CUST-002,Corporate,North,Office Supplies,Binders,7,215,0.4,903,61
+ORD-00214,26-04-2024,CUST-141,Consumer,West,Technology,Accessories,6,1555,0.3,6531,420
+ORD-00215,06-12-2025,CUST-129,Consumer,West,Office Supplies,Paper,5,415,0,2075,777
+ORD-00216,22-12-2024,CUST-198,Consumer,South,Furniture,Bookcases,4,5227,0.1,18817,620
+ORD-00217,07-12-2025,CUST-088,Consumer,West,Furniture,Chairs,3,4253,0.4,7655,-945
+ORD-00218,26-05-2024,CUST-105,Home Office,East,Furniture,Chairs,6,5003,0.1,27016,4174
+ORD-00219,23-02-2025,CUST-034,Consumer,West,Technology,Accessories,3,1537,0,4611,1122
+ORD-00220,30-06-2024,CUST-182,Corporate,West,Office Supplies,Storage,2,1168,0,2336,322
+ORD-00221,05-08-2024,CUST-194,Corporate,North,Furniture,Tables,7,8906,0.2,49874,-3493
+ORD-00222,30-01-2024,CUST-027,Corporate,West,Technology,Accessories,5,1369,0,6845,1638
+ORD-00223,20-04-2024,CUST-099,Consumer,West,Office Supplies,Paper,3,437,0,1311,480
+ORD-00224,19-11-2025,CUST-217,Corporate,West,Furniture,Tables,7,10118,0,70826,956
+ORD-00225,25-09-2024,CUST-001,Corporate,North,Office Supplies,Paper,7,449,0.2,2514,642
+ORD-00226,11-04-2025,CUST-069,Corporate,West,Furniture,Bookcases,3,5503,0.1,14858,413
+ORD-00227,13-12-2024,CUST-140,Consumer,East,Office Supplies,Binders,4,236,0.3,661,103
+ORD-00228,10-11-2024,CUST-082,Corporate,South,Technology,Copiers,4,22455,0.2,71856,10354
+ORD-00229,31-01-2025,CUST-063,Consumer,West,Technology,Accessories,5,1413,0.4,4239,-31
+ORD-00230,14-06-2024,CUST-121,Corporate,East,Furniture,Tables,7,8549,0.3,41890,-6156
+ORD-00231,26-12-2025,CUST-037,Consumer,West,Technology,Accessories,4,1560,0,6240,1830
+ORD-00232,23-09-2025,CUST-134,Consumer,West,Office Supplies,Binders,6,227,0.2,1090,168
+ORD-00233,27-07-2025,CUST-176,Corporate,South,Furniture,Chairs,5,5066,0,25330,4227
+ORD-00234,15-12-2024,CUST-148,Consumer,West,Office Supplies,Paper,7,352,0.4,1478,250
+ORD-00235,18-05-2024,CUST-020,Home Office,East,Technology,Accessories,3,1278,0,3834,942
+ORD-00236,21-11-2025,CUST-205,Home Office,East,Office Supplies,Paper,3,443,0.2,1063,232
+ORD-00237,08-10-2024,CUST-037,Consumer,South,Technology,Copiers,3,26528,0.3,55709,4405
+ORD-00238,19-02-2024,CUST-188,Consumer,North,Technology,Phones,7,14349,0,100443,20670
+ORD-00239,09-10-2024,CUST-090,Consumer,West,Furniture,Bookcases,5,6172,0.3,21602,-2545
+ORD-00240,06-09-2025,CUST-194,Home Office,East,Technology,Copiers,2,22927,0,45854,14295
+ORD-00241,24-04-2025,CUST-045,Corporate,West,Furniture,Tables,1,8105,0,8105,514
+ORD-00242,03-08-2025,CUST-038,Consumer,West,Technology,Copiers,4,24784,0.1,89222,22423
+ORD-00243,05-09-2025,CUST-127,Consumer,West,Furniture,Chairs,6,4302,0,25812,4237
+ORD-00244,03-07-2024,CUST-006,Consumer,South,Technology,Copiers,4,25864,0.1,93110,19738
+ORD-00245,22-11-2025,CUST-051,Corporate,West,Technology,Copiers,4,22886,0.3,64081,5814
+ORD-00246,29-11-2024,CUST-179,Consumer,North,Furniture,Chairs,6,4720,0,28320,4855
+ORD-00247,07-05-2025,CUST-203,Consumer,West,Office Supplies,Paper,4,432,0.1,1555,468
+ORD-00248,03-01-2024,CUST-018,Corporate,East,Technology,Phones,7,13500,0.3,66150,-5458
+ORD-00249,28-12-2025,CUST-214,Consumer,West,Office Supplies,Binders,5,216,0.2,864,172
+ORD-00250,27-08-2024,CUST-197,Corporate,South,Furniture,Chairs,6,4418,0,26508,3152
+ORD-00251,01-03-2024,CUST-210,Corporate,South,Furniture,Tables,6,9740,0.4,35064,-5820
+ORD-00252,09-12-2024,CUST-174,Home Office,West,Technology,Accessories,5,1568,0,7840,2288
+ORD-00253,29-04-2024,CUST-172,Consumer,East,Furniture,Tables,1,9545,0.1,8590,4
+ORD-00254,17-05-2024,CUST-133,Home Office,West,Furniture,Bookcases,3,5825,0.1,15728,1099
+ORD-00255,02-05-2025,CUST-167,Consumer,West,Technology,Copiers,1,23012,0.2,18410,3399
+ORD-00256,07-11-2024,CUST-226,Home Office,East,Furniture,Tables,4,9086,0,36344,3911
+ORD-00257,21-11-2025,CUST-021,Consumer,East,Office Supplies,Paper,2,365,0,730,254
+ORD-00258,23-09-2024,CUST-075,Corporate,East,Furniture,Chairs,4,4805,0.2,15376,457
+ORD-00259,15-07-2025,CUST-015,Consumer,West,Furniture,Tables,3,8182,0,24546,1968
+ORD-00260,11-12-2024,CUST-236,Home Office,West,Technology,Copiers,1,23434,0.1,21091,4941
+ORD-00261,24-05-2025,CUST-115,Home Office,South,Office Supplies,Binders,1,250,0.2,200,43
+ORD-00262,04-04-2025,CUST-172,Consumer,West,Furniture,Tables,4,8964,0.2,28685,-2093
+ORD-00263,17-12-2024,CUST-204,Corporate,South,Furniture,Bookcases,1,6182,0,6182,1002
+ORD-00264,05-12-2025,CUST-247,Corporate,East,Office Supplies,Storage,6,1177,0,7062,1297
+ORD-00265,09-10-2024,CUST-033,Consumer,West,Office Supplies,Storage,6,1351,0.4,4864,-543
+ORD-00266,06-06-2024,CUST-197,Corporate,West,Technology,Copiers,5,27550,0,137750,43609
+ORD-00267,07-06-2025,CUST-216,Corporate,East,Technology,Accessories,2,1671,0,3342,955
+ORD-00268,11-10-2025,CUST-007,Corporate,South,Technology,Phones,6,15583,0,93498,13500
+ORD-00269,09-02-2024,CUST-185,Consumer,South,Technology,Copiers,5,26013,0,130065,33900
+ORD-00270,05-12-2024,CUST-087,Home Office,North,Technology,Copiers,3,25819,0.4,46474,4540
+ORD-00271,07-11-2025,CUST-166,Consumer,South,Furniture,Bookcases,1,5883,0,5883,637
+ORD-00272,02-08-2025,CUST-129,Corporate,West,Furniture,Chairs,4,4260,0,17040,2440
+ORD-00273,27-12-2025,CUST-060,Consumer,South,Furniture,Tables,6,9248,,49939,17
+ORD-00274,31-01-2025,CUST-027,Consumer,South,Office Supplies,Storage,1,1029,0,1029,50
+ORD-00275,24-05-2025,CUST-025,Consumer,West,Technology,Phones,1,12784,0,12784,2228
+ORD-00276,11-09-2024,CUST-022,Consumer,North,Technology,Accessories,3,1658,0.4,2984,-38
+ORD-00277,04-12-2025,CUST-161,Corporate,South,Technology,Accessories,4,1296,0.2,4147,653
+ORD-00278,23-10-2024,CUST-086,Corporate,West,Office Supplies,Binders,4,252,0,1008,332
+ORD-00279,25-07-2025,CUST-049,Corporate,North,Furniture,Chairs,3,4655,0,13965,2336
+ORD-00280,12-11-2024,CUST-172,Corporate,South,Furniture,Chairs,2,4093,0,8186,1325
+ORD-00281,02-03-2025,CUST-172,Consumer,East,Furniture,Bookcases,1,6712,0,6712,370
+ORD-00282,10-07-2025,CUST-135,Consumer,South,Technology,Accessories,1,1361,0.1,1225,254
+ORD-00283,09-01-2025,CUST-232,Corporate,South,Office Supplies,Paper,1,446,0.1,401,136
+ORD-00284,14-11-2025,CUST-096,Corporate,South,Technology,Accessories,5,1618,0.2,6472,1083
+ORD-00285,20-11-2024,CUST-202,Corporate,South,Technology,Phones,6,13833,0.3,58099,3692
+ORD-00286,14-05-2025,CUST-016,Consumer,West,Office Supplies,Storage,4,1074,0,4296,297
+ORD-00287,09-10-2024,CUST-182,Corporate,East,Furniture,Tables,1,8504,0.4,5102,-978
+ORD-00288,14-11-2024,CUST-247,Consumer,South,Technology,Copiers,3,24235,0.1,65434,14247
+ORD-00289,30-11-2024,CUST-205,Corporate,South,Technology,Accessories,7,1386,0,9702,2476
+ORD-00290,26-04-2024,CUST-149,Consumer,West,Technology,Accessories,2,1725,0.3,2415,170
+ORD-00291,27-03-2024,CUST-158,Corporate,North,Office Supplies,Binders,4,230,0,920,270
+ORD-00292,30-05-2025,CUST-087,Consumer,West,Furniture,Bookcases,4,6595,0.1,23742,1682
+ORD-00293,20-05-2025,CUST-172,Corporate,South,Office Supplies,Storage,3,1077,0.2,2585,-85
+ORD-00294,26-05-2025,CUST-189,Consumer,West,Furniture,Bookcases,4,6864,0,27456,1888
+ORD-00295,20-01-2024,CUST-250,Corporate,South,Technology,Accessories,4,1376,0.3,3853,151
+ORD-00296,29-09-2024,CUST-125,Consumer,North,Technology,Accessories,4,1465,0,5860,1402
+ORD-00297,22-06-2024,CUST-011,Corporate,East,Office Supplies,Binders,6,254,0.3,1067,89
+ORD-00298,25-08-2025,CUST-153,Consumer,South,Technology,Phones,5,13291,0,66455,11865
+ORD-00299,20-10-2025,CUST-025,Consumer,West,Furniture,Bookcases,1,6570,0,6570,624
+ORD-00300,31-07-2024,CUST-057,Corporate,East,Furniture,Chairs,1,4196,0,4196,530
+ORD-00301,30-05-2025,CUST-080,Consumer,West,Technology,Phones,3,15222,0.3,31966,838
+ORD-00302,29-04-2024,CUST-180,Consumer,North,Office Supplies,Binders,7,254,0,1778,530
+ORD-00303,22-08-2024,CUST-038,Home Office,West,Furniture,Chairs,1,4639,0.3,3247,6
+ORD-00304,07-05-2024,CUST-034,Corporate,South,Office Supplies,Storage,1,1040,0,1040,119
+ORD-00305,29-08-2024,CUST-007,Home Office,West,Technology,Accessories,5,1351,0.1,6080,1151
+ORD-00306,04-06-2025,CUST-211,Consumer,West,Furniture,Tables,4,8085,0,32340,1394
+ORD-00307,15-11-2025,CUST-172,Corporate,East,Furniture,Bookcases,2,5644,0,11288,1126
+ORD-00308,26-06-2024,CUST-007,Corporate,West,Technology,Accessories,2,1340,0.4,1608,50
+ORD-00309,10-02-2025,CUST-005,Consumer,East,Furniture,Bookcases,5,6759,0,33795,2962
+ORD-00310,25-06-2025,CUST-142,Corporate,East,Furniture,Chairs,4,4517,0.2,14454,658
+ORD-00311,07-12-2025,CUST-067,Consumer,South,Technology,Copiers,5,25927,0.1,116672,25157
+ORD-00312,13-04-2025,CUST-153,Home Office,West,Office Supplies,Paper,2,383,0.1,689,236
+ORD-00313,06-08-2024,CUST-112,Corporate,South,Furniture,Tables,4,8396,0.1,30226,-526
+ORD-00314,26-04-2025,CUST-228,Consumer,North,Furniture,Bookcases,7,6006,0.3,29429,-1602
+ORD-00315,24-09-2024,CUST-067,Consumer,West,Furniture,Bookcases,3,5630,0.2,13512,-246
+ORD-00316,19-12-2025,CUST-172,Consumer,North,Technology,Copiers,3,23827,0.1,64333,18375
+ORD-00317,10-11-2024,CUST-008,Consumer,West,Office Supplies,Paper,2,394,0.1,709,202
+ORD-00318,13-06-2025,CUST-239,Corporate,North,Office Supplies,Paper,5,401,0.1,1804,497
+ORD-00319,23-01-2024,CUST-246,Corporate,East,Office Supplies,Storage,1,1374,0,1374,139
+ORD-00320,10-11-2024,CUST-182,Corporate,West,Office Supplies,Paper,2,367,0.1,661,184
+ORD-00321,29-10-2025,CUST-122,Consumer,North,Furniture,Bookcases,5,5978,0,29890,1749
+ORD-00322,13-04-2025,CUST-050,Corporate,East,Furniture,Chairs,1,4027,0.2,3222,157
+ORD-00323,02-12-2024,CUST-198,Consumer,East,Technology,Copiers,7,23875,0.4,100275,6004
+ORD-00324,28-11-2025,CUST-182,Consumer,West,Office Supplies,Storage,3,1278,0.4,2300,-309
+ORD-00325,16-10-2025,CUST-050,Home Office,North,Office Supplies,Storage,3,1083,0.3,2274,-163
+ORD-00326,26-09-2024,CUST-117,Consumer,West,Furniture,Bookcases,4,6146,0.1,22126,489
+ORD-00327,13-02-2025,CUST-122,Corporate,East,Furniture,Bookcases,5,5850,0.2,23400,691
+ORD-00328,26-12-2024,CUST-200,Home Office,East,Furniture,Chairs,4,3895,0,15580,1993
+ORD-00329,02-05-2025,CUST-172,Consumer,South,Furniture,Tables,7,10169,0.1,64065,-2541
+ORD-00330,04-10-2024,CUST-163,Home Office,South,Technology,Accessories,7,1461,0,10227,2801
+ORD-00331,29-07-2024,CUST-166,Corporate,East,Technology,Accessories,2,1628,0,3256,793
+ORD-00332,17-11-2025,CUST-063,Corporate,North,Technology,Phones,5,14623,0.4,43869,51
+ORD-00333,22-11-2025,CUST-093,Consumer,East,Furniture,Bookcases,3,6787,0.3,14253,-1365
+ORD-00334,09-10-2025,CUST-007,Consumer,East,Office Supplies,Binders,7,234,0.1,1474,391
+ORD-00335,20-12-2025,CUST-195,Consumer,East,Technology,Accessories,2,1461,0,2922,825
+ORD-00336,30-07-2025,CUST-111,Consumer,North,Office Supplies,Binders,3,269,0.2,646,106
+ORD-00337,14-08-2025,CUST-113,Consumer,South,Office Supplies,Storage,5,1144,0,5720,559
+ORD-00338,13-08-2025,CUST-058,Corporate,East,Furniture,Bookcases,6,5756,0.3,24175,-1396
+ORD-00339,21-12-2024,CUST-046,Corporate,East,Furniture,Tables,1,10336,0.4,6202,-1009
+ORD-00340,08-12-2024,CUST-151,Consumer,West,Office Supplies,Storage,4,1220,0,4880,379
+ORD-00341,26-07-2024,CUST-052,Corporate,East,Technology,Copiers,3,26420,0,79260,21095
+ORD-00342,12-05-2025,CUST-012,Home Office,West,Furniture,Bookcases,5,6258,,31290,748
+ORD-00343,02-09-2024,CUST-189,Corporate,North,Technology,Copiers,4,27459,0,109836,34913
+ORD-00344,08-08-2024,CUST-094,Corporate,West,Technology,Accessories,7,1663,0,11641,2819
+ORD-00345,23-03-2025,CUST-094,Corporate,South,Office Supplies,Storage,7,1223,0,8561,986
+ORD-00346,15-11-2024,CUST-111,Consumer,South,Furniture,Bookcases,5,5630,0,28150,1387
+ORD-00347,09-07-2024,CUST-198,Consumer,South,Office Supplies,Storage,5,1028,0,5140,447
+ORD-00348,22-09-2025,CUST-077,Home Office,North,Office Supplies,Storage,7,1241,0,8687,918
+ORD-00349,20-10-2025,CUST-186,Corporate,West,Furniture,Tables,2,9879,0.2,15806,-1267
+ORD-00350,30-05-2024,CUST-234,Corporate,South,Furniture,Tables,6,8866,0,53196,3380
+ORD-00351,08-01-2024,CUST-170,Home Office,South,Technology,Accessories,6,1349,0.3,5666,496
+ORD-00352,05-10-2024,CUST-111,Consumer,North,Furniture,Chairs,1,4214,0,4214,919
+ORD-00353,08-09-2025,CUST-183,Consumer,West,Furniture,Bookcases,7,6018,0,42126,4187
+ORD-00354,07-10-2025,CUST-120,Corporate,West,Technology,Phones,5,16515,0,82575,17627
+ORD-00355,06-05-2024,CUST-106,Consumer,West,Office Supplies,Storage,3,1082,0.2,2597,-65
+ORD-00356,22-08-2025,CUST-133,Corporate,West,Office Supplies,Storage,4,1240,0,4960,346
+ORD-00357,17-04-2024,CUST-076,Corporate,West,Furniture,Tables,4,9684,0.1,34862,-368
+ORD-00358,05-11-2024,CUST-023,Corporate,East,Office Supplies,Storage,7,1357,0,9499,685
+ORD-00359,31-12-2025,CUST-106,Consumer,North,Furniture,Chairs,7,3983,0.4,16729,-1498
+ORD-00360,18-06-2024,CUST-026,Corporate,South,Office Supplies,Paper,6,451,0,2706,965
+ORD-00361,19-05-2024,CUST-105,Consumer,South,Office Supplies,Binders,5,258,0,1290,311
+ORD-00362,21-11-2024,CUST-141,Home Office,West,Office Supplies,Storage,1,1296,0.3,907,-7
+ORD-00363,21-04-2025,CUST-231,Consumer,North,Furniture,Bookcases,7,5197,0,36379,3051
+ORD-00364,27-11-2025,CUST-007,Home Office,North,Office Supplies,Storage,1,1202,,1202,85
+ORD-00365,21-12-2025,CUST-156,Consumer,West,Furniture,Tables,2,9331,0.3,13063,-1216
+ORD-00366,08-03-2024,CUST-120,Consumer,North,Technology,Accessories,1,1413,0,1413,322
+ORD-00367,06-05-2024,CUST-004,Consumer,North,Technology,Accessories,7,1469,0,10283,2907
+ORD-00368,03-09-2025,CUST-059,Consumer,North,Furniture,Bookcases,4,6098,0,24392,1903
+ORD-00369,18-08-2024,CUST-025,Consumer,West,Furniture,Chairs,2,4571,0,9142,1223
+ORD-00370,03-11-2025,CUST-049,Home Office,North,Office Supplies,Paper,1,345,0.3,241,51
+ORD-00371,27-05-2025,CUST-064,Corporate,North,Technology,Phones,3,14728,0.1,39766,5480
+ORD-00372,14-04-2024,CUST-101,Consumer,South,Technology,Copiers,6,22854,0.1,123412,32464
+ORD-00373,03-10-2025,CUST-134,Corporate,West,Technology,Phones,7,16875,0,118125,20944
+ORD-00374,05-06-2024,CUST-001,Home Office,North,Technology,Phones,4,17145,0.2,54864,4162
+ORD-00375,22-11-2024,CUST-033,Corporate,North,Office Supplies,Binders,5,235,0.2,940,190
+ORD-00376,20-02-2025,CUST-020,Consumer,West,Furniture,Chairs,6,4062,0,24372,3802
+ORD-00377,01-01-2025,CUST-139,Consumer,West,Office Supplies,Paper,7,366,0.3,1793,351
+ORD-00378,13-06-2025,CUST-080,Home Office,North,Office Supplies,Paper,2,397,0.1,715,198
+ORD-00379,18-05-2025,CUST-138,Consumer,South,Technology,Phones,7,16685,0.2,93436,7286
+ORD-00380,27-12-2025,CUST-050,Consumer,North,Furniture,Bookcases,4,6000,0,24000,2430
+ORD-00381,31-12-2025,CUST-005,Corporate,West,Furniture,Chairs,7,3900,0,27300,3756
+ORD-00382,16-01-2025,CUST-235,Consumer,South,Office Supplies,Storage,1,1034,0.2,827,32
+ORD-00383,30-03-2024,CUST-024,Home Office,West,Office Supplies,Storage,1,1102,0.2,882,-38
+ORD-00384,16-07-2025,CUST-027,Consumer,West,Furniture,Bookcases,7,6617,0,46319,6916
+ORD-00385,19-12-2025,CUST-028,Corporate,East,Furniture,Chairs,5,4664,0,23320,3482
+ORD-00386,23-09-2024,CUST-246,Home Office,North,Furniture,Tables,2,9170,0.3,12838,-1418
+ORD-00387,11-12-2024,CUST-156,Home Office,West,Furniture,Chairs,7,4256,0,29792,4116
+ORD-00388,22-11-2024,CUST-153,Home Office,West,Office Supplies,Binders,1,282,0,282,70
+ORD-00389,20-02-2024,CUST-247,Home Office,West,Office Supplies,Storage,5,1139,0.1,5126,286
+ORD-00390,03-06-2025,CUST-019,Consumer,North,Furniture,Tables,2,9904,0,19808,1387
+ORD-00391,15-10-2024,CUST-244,Home Office,West,Office Supplies,Paper,1,448,0,448,179
+ORD-00392,01-09-2025,CUST-044,Home Office,West,Furniture,Tables,6,8955,0,53730,2905
+ORD-00393,03-10-2025,CUST-157,Corporate,West,Technology,Phones,6,16774,0.3,70451,-4634
+ORD-00394,25-09-2025,CUST-108,Consumer,East,Technology,Copiers,1,23326,0,23326,5919
+ORD-00395,18-11-2024,CUST-095,Consumer,East,Office Supplies,Paper,1,419,0.2,335,108
+ORD-00396,25-09-2024,CUST-231,Corporate,East,Office Supplies,Binders,5,219,0.4,657,18
+ORD-00397,02-08-2025,CUST-029,Corporate,West,Furniture,Chairs,1,4465,0.2,3572,260
+ORD-00398,11-09-2025,CUST-249,Consumer,West,Furniture,Tables,6,8237,0.1,44480,-1246
+ORD-00399,27-12-2024,CUST-094,Consumer,East,Furniture,Bookcases,7,5213,0.1,32842,1134
+ORD-00400,07-11-2025,CUST-166,Corporate,South,Furniture,Bookcases,6,5107,0,30642,3639
+ORD-00401,11-05-2024,CUST-243,Consumer,North,Office Supplies,Storage,2,1137,0.1,2047,72
+ORD-00402,31-10-2025,CUST-010,Home Office,East,Office Supplies,Paper,2,411,0.4,493,93
+ORD-00403,31-03-2024,CUST-228,Consumer,West,Furniture,Bookcases,5,5919,0.2,23676,-420
+ORD-00404,18-05-2024,CUST-146,Consumer,North,Office Supplies,Storage,1,1129,0,1129,151
+ORD-00405,02-02-2025,CUST-176,Consumer,South,Technology,Accessories,4,1721,0,6884,1666
+ORD-00406,06-03-2024,CUST-029,Home Office,West,Technology,Accessories,4,1698,0.3,4754,427
+ORD-00407,21-02-2024,CUST-134,Home Office,East,Technology,Phones,6,13315,0,79890,18164
+ORD-00408,01-01-2024,CUST-172,Consumer,South,Furniture,Tables,2,8771,0.3,12279,-1522
+ORD-00409,28-11-2024,CUST-119,Consumer,South,Office Supplies,Storage,6,1254,0,7524,1293
+ORD-00410,22-08-2025,CUST-031,Consumer,South,Furniture,Chairs,5,4815,0.2,19260,224
+ORD-00411,04-02-2024,CUST-057,Consumer,North,Furniture,Tables,2,8639,0.3,12095,-1174
+ORD-00412,18-05-2025,CUST-208,Corporate,East,Furniture,Bookcases,3,6443,0.1,17396,951
+ORD-00413,27-09-2025,CUST-006,Consumer,East,Furniture,Bookcases,1,5323,0,5323,362
+ORD-00414,30-05-2024,CUST-177,Corporate,East,Furniture,Tables,4,8546,0.3,23929,-2718
+ORD-00415,13-05-2024,CUST-250,Consumer,East,Furniture,Chairs,2,4792,0,9584,1440
+ORD-00416,20-10-2025,CUST-001,Consumer,North,Office Supplies,Paper,1,415,0,415,147
+ORD-00417,27-09-2025,CUST-033,Consumer,North,Office Supplies,Storage,4,1321,0.1,4756,336
+ORD-00418,07-02-2025,CUST-172,Consumer,North,Furniture,Tables,4,7777,0,31108,2003
+ORD-00419,24-09-2025,CUST-011,Consumer,North,Furniture,Bookcases,1,5414,0.2,4331,-96
+ORD-00420,28-03-2024,CUST-152,Consumer,West,Technology,Accessories,2,1297,0,2594,643
+ORD-00421,07-11-2024,CUST-172,Consumer,North,Office Supplies,Storage,1,1089,0,1089,128
+ORD-00422,24-07-2025,CUST-151,Home Office,East,Office Supplies,Paper,5,341,0.3,1194,226
+ORD-00423,08-08-2024,CUST-091,Consumer,North,Office Supplies,Paper,3,401,0,1203,462
+ORD-00424,04-08-2025,CUST-173,Consumer,North,Technology,Copiers,1,25212,0.1,22691,5008
+ORD-00425,04-01-2025,CUST-153,Consumer,North,Technology,Phones,2,15711,0.2,25138,3512
+ORD-00426,03-08-2025,CUST-045,Corporate,East,Furniture,Tables,7,8689,0.3,42576,-6909
+ORD-00427,13-12-2024,CUST-144,Home Office,East,Office Supplies,Binders,2,213,0.1,383,85
+ORD-00428,24-10-2024,CUST-214,Corporate,West,Office Supplies,Binders,5,263,0.3,920,96
+ORD-00429,09-07-2024,CUST-172,Corporate,North,Furniture,Chairs,4,3898,0,15592,3293
+ORD-00430,01-07-2024,CUST-124,Corporate,East,Office Supplies,Paper,2,444,0,888,302
+ORD-00431,04-08-2025,CUST-077,Consumer,West,Furniture,Chairs,3,3856,0.4,6941,-536
+ORD-00432,20-04-2024,CUST-019,Home Office,South,Office Supplies,Paper,1,404,0.3,283,59
+ORD-00433,22-03-2024,CUST-057,Corporate,North,Office Supplies,Binders,6,280,0.1,1512,378
+ORD-00434,05-06-2024,CUST-002,Consumer,North,Furniture,Tables,3,9196,0.1,24829,921
+ORD-00435,05-06-2024,CUST-247,Consumer,North,Technology,Phones,4,15488,0.1,55757,8725
+ORD-00436,27-09-2025,CUST-050,Consumer,West,Furniture,Tables,2,9490,0,18980,882
+ORD-00437,09-11-2024,CUST-198,Consumer,South,Technology,Copiers,6,22168,0.3,93106,11715
+ORD-00438,26-12-2025,CUST-034,Home Office,East,Office Supplies,Storage,2,1263,0.3,1768,-205
+ORD-00439,06-05-2024,CUST-067,Consumer,West,Furniture,Chairs,4,5013,0.1,18047,1678
+ORD-00440,19-05-2025,CUST-107,Corporate,South,Technology,Phones,7,17134,0,119938,18732
+ORD-00441,04-12-2024,CUST-078,Home Office,East,Office Supplies,Storage,5,1179,0,5895,674
+ORD-00442,07-11-2024,CUST-197,Consumer,North,Furniture,Bookcases,5,5720,0,28600,1414
+ORD-00443,29-10-2025,CUST-240,Consumer,East,Furniture,Tables,7,9684,0.2,54230,-2595
+ORD-00444,19-12-2025,CUST-212,Corporate,North,Technology,Accessories,2,1519,0.1,2734,380
+ORD-00445,27-10-2025,CUST-030,Corporate,South,Technology,Accessories,7,1391,0,9737,2478
+ORD-00446,18-06-2024,CUST-192,Consumer,South,Technology,Copiers,4,22541,0.1,81148,16490
+ORD-00447,10-07-2024,CUST-029,Consumer,West,Furniture,Bookcases,3,5406,0.4,9731,-1610
+ORD-00448,21-05-2025,CUST-224,Corporate,West,Office Supplies,Storage,2,1185,0,2370,367
+ORD-00449,02-09-2024,CUST-131,Home Office,West,Technology,Accessories,6,1352,0.1,7301,1516
+ORD-00450,22-07-2025,CUST-082,Consumer,North,Furniture,Bookcases,7,5135,0.1,32350,2409
+ORD-00451,06-03-2025,CUST-031,Consumer,West,Office Supplies,Storage,5,1039,0,5195,866
+ORD-00452,19-02-2025,CUST-002,Home Office,North,Office Supplies,Storage,1,1355,0.1,1220,45
+ORD-00453,30-09-2025,CUST-059,Consumer,West,Technology,Accessories,4,1308,0.1,4709,1106
+ORD-00454,03-07-2025,CUST-224,Consumer,West,Furniture,Chairs,6,3924,0,23544,2496
+ORD-00455,27-01-2024,CUST-196,Corporate,East,Technology,Copiers,3,24634,0,73902,23825
+ORD-00456,18-02-2024,CUST-243,Consumer,East,Technology,Accessories,6,1385,0.3,5817,321
+ORD-00457,05-04-2025,CUST-021,Consumer,West,Furniture,Tables,5,10249,0,51245,1645
+ORD-00458,24-12-2024,CUST-153,Corporate,West,Technology,Copiers,1,28082,,25274,6532
+ORD-00459,10-08-2024,CUST-060,Corporate,North,Office Supplies,Binders,4,243,0.1,875,235
+ORD-00460,19-11-2024,CUST-137,Consumer,West,Furniture,Chairs,2,4431,0.3,6203,-16
+ORD-00461,09-08-2025,CUST-077,Consumer,North,Office Supplies,Paper,4,385,0.2,1232,328
+ORD-00462,29-09-2025,CUST-067,Corporate,East,Furniture,Tables,3,7752,0.3,16279,-1889
+ORD-00463,01-03-2025,CUST-148,Corporate,East,Office Supplies,Paper,6,375,0.1,2025,680
+ORD-00464,03-11-2024,CUST-038,Corporate,West,Technology,Phones,7,13302,0,93114,17609
+ORD-00465,19-08-2024,CUST-124,Corporate,East,Furniture,Chairs,4,3963,0,15852,2635
+ORD-00466,22-01-2025,CUST-166,Corporate,South,Office Supplies,Storage,4,1222,,4888,616
+ORD-00467,20-09-2024,CUST-027,Home Office,East,Furniture,Tables,5,7917,0,39585,3376
+ORD-00468,04-03-2025,CUST-231,Home Office,South,Technology,Copiers,5,22022,0,110110,27658
+ORD-00469,06-06-2025,CUST-128,Consumer,East,Furniture,Tables,5,8947,0,44735,2508
+ORD-00470,05-03-2024,CUST-199,Home Office,East,Office Supplies,Storage,6,1179,0,7074,555
+ORD-00471,02-01-2024,CUST-168,Home Office,West,Office Supplies,Paper,7,357,0,2499,970
+ORD-00472,04-07-2024,CUST-177,Consumer,South,Office Supplies,Binders,6,213,0,1278,446
+ORD-00473,08-11-2025,CUST-178,Consumer,North,Technology,Phones,1,13618,0.2,10894,499
+ORD-00474,13-05-2025,CUST-212,Corporate,East,Technology,Accessories,4,1381,0.1,4972,964
+ORD-00475,02-06-2024,CUST-154,Consumer,North,Technology,Copiers,4,27252,0.3,76306,10888
+ORD-00476,06-11-2025,CUST-066,Corporate,South,Office Supplies,Binders,4,281,0.1,1012,180
+ORD-00477,15-12-2024,CUST-021,Corporate,South,Office Supplies,Binders,4,243,0.3,680,71
+ORD-00478,19-12-2024,CUST-153,Consumer,East,Furniture,Chairs,6,4372,0.2,20986,859
+ORD-00479,28-11-2025,CUST-012,Consumer,South,Technology,Copiers,3,26594,0,79782,17001
+ORD-00480,28-02-2024,CUST-056,Home Office,East,Furniture,Chairs,2,4671,0.4,5605,-669
+ORD-00481,06-07-2024,CUST-011,Consumer,West,Furniture,Bookcases,4,5431,0,21724,2890
+ORD-00482,23-03-2025,CUST-138,Corporate,East,Office Supplies,Binders,6,221,0.1,1193,322
+ORD-00483,20-06-2024,CUST-032,Consumer,South,Furniture,Bookcases,3,5888,0.2,14131,-124
+ORD-00484,08-06-2025,CUST-153,Consumer,North,Office Supplies,Binders,1,255,0,255,83
+ORD-00485,05-07-2024,CUST-195,Corporate,North,Technology,Accessories,7,1337,0.1,8423,1655
+ORD-00486,03-04-2024,CUST-199,Consumer,East,Furniture,Bookcases,2,5628,0,11256,1313
+ORD-00487,29-06-2024,CUST-072,Corporate,West,Technology,Phones,5,14127,0,70635,12045
+ORD-00488,21-11-2024,CUST-139,Corporate,North,Technology,Accessories,6,1393,,8358,2119
+ORD-00489,05-06-2024,CUST-144,Consumer,North,Office Supplies,Paper,2,395,0,790,285
+ORD-00490,04-05-2024,CUST-124,Consumer,South,Technology,Copiers,3,26148,0,78444,26507
+ORD-00491,20-10-2025,CUST-168,Corporate,South,Office Supplies,Storage,2,1203,0.1,2165,229
+ORD-00492,24-09-2024,CUST-047,Corporate,West,Office Supplies,Binders,2,228,0.1,410,115
+ORD-00493,20-10-2024,CUST-246,Corporate,North,Office Supplies,Paper,2,352,0.1,634,195
+ORD-00494,24-02-2024,CUST-021,Corporate,North,Technology,Copiers,2,27414,0.2,43862,6640
+ORD-00495,18-10-2024,CUST-201,Consumer,South,Furniture,Bookcases,4,5963,0,23852,3299
+ORD-00496,14-08-2024,CUST-153,Consumer,North,Technology,Phones,4,13030,0,52120,10232
+ORD-00497,13-04-2025,CUST-057,Corporate,North,Furniture,Tables,1,8347,0.2,6678,-335
+ORD-00498,28-06-2024,CUST-182,Corporate,South,Technology,Phones,6,16368,0.3,68746,-1307
+ORD-00499,05-11-2025,CUST-018,Corporate,South,Office Supplies,Storage,5,1291,0,6455,857
+ORD-00500,25-11-2025,CUST-191,Consumer,North,Technology,Phones,1,16691,0,16691,2461
+ORD-00501,03-04-2024,CUST-152,Consumer,East,Furniture,Tables,6,9276,0.2,44525,-1825
+ORD-00502,10-04-2024,CUST-024,Corporate,East,Technology,Copiers,1,24422,0.3,17095,2759
+ORD-00503,17-04-2024,CUST-018,Consumer,North,Office Supplies,Storage,4,1174,0,4696,793
+ORD-00504,21-04-2025,CUST-184,Consumer,West,Office Supplies,Binders,4,227,0,908,292
+ORD-00505,23-04-2024,CUST-067,Corporate,South,Furniture,Bookcases,4,6271,0,25084,1468
+ORD-00506,15-10-2025,CUST-216,Consumer,West,Technology,Accessories,7,1538,0.1,9689,1898
+ORD-00507,06-08-2025,CUST-187,Consumer,West,Technology,Accessories,7,1345,0.3,6590,884
+ORD-00508,24-09-2025,CUST-174,Consumer,East,Furniture,Bookcases,2,6694,0.2,10710,-493
+ORD-00509,26-01-2025,CUST-066,Home Office,South,Furniture,Bookcases,5,5763,0,28815,2830
+ORD-00510,30-12-2025,CUST-177,Consumer,West,Furniture,Bookcases,7,5190,0.1,32697,2694
+ORD-00511,13-02-2024,CUST-237,Consumer,South,Office Supplies,Storage,6,1138,0.3,4780,-198
+ORD-00512,11-11-2024,CUST-019,Consumer,North,Office Supplies,Paper,7,444,0.1,2797,1103
+ORD-00513,27-09-2024,CUST-079,Consumer,East,Office Supplies,Binders,4,281,0.3,787,77
+ORD-00514,05-12-2025,CUST-053,Consumer,East,Office Supplies,Binders,2,249,0,498,135
+ORD-00515,15-03-2025,CUST-099,Corporate,West,Office Supplies,Storage,4,1364,0,5456,855
+ORD-00516,14-09-2025,CUST-182,Consumer,West,Furniture,Chairs,6,5007,0.1,27038,1463
+ORD-00517,01-06-2024,CUST-124,Consumer,West,Office Supplies,Binders,7,274,0.1,1726,404
+ORD-00518,20-12-2025,CUST-147,Consumer,West,Furniture,Chairs,5,4986,0.4,14958,-1376
+ORD-00519,31-12-2024,CUST-074,Consumer,East,Technology,Accessories,5,1447,0.1,6512,1440
+ORD-00520,28-12-2024,CUST-027,Consumer,East,Technology,Copiers,4,26924,0,107696,34293
+ORD-00521,16-12-2025,CUST-062,Corporate,West,Technology,Phones,3,15348,0,46044,8919
+ORD-00522,01-11-2024,CUST-209,Corporate,West,Furniture,Tables,3,9593,0.1,25901,-313
+ORD-00523,09-11-2024,CUST-153,Corporate,West,Furniture,Tables,4,8130,0,32520,3137
+ORD-00524,22-03-2025,CUST-094,Consumer,West,Office Supplies,Binders,6,267,0.2,1282,386
+ORD-00525,28-04-2024,CUST-195,Home Office,East,Furniture,Bookcases,4,6824,0,27296,3296
+ORD-00526,25-09-2024,CUST-012,Corporate,South,Furniture,Bookcases,6,5645,0,33870,3488
+ORD-00527,19-06-2024,CUST-060,Consumer,West,Office Supplies,Storage,1,1375,0.1,1238,26
+ORD-00528,06-04-2024,CUST-051,Consumer,North,Furniture,Tables,6,8672,0,52032,2127
+ORD-00529,23-10-2025,CUST-246,Corporate,South,Office Supplies,Storage,4,1092,0.2,3494,-22
+ORD-00530,26-03-2025,CUST-176,Consumer,South,Office Supplies,Storage,7,1060,0.1,6678,294
+ORD-00531,18-10-2024,CUST-156,Consumer,East,Technology,Copiers,4,27137,0.1,97693,23399
+ORD-00532,14-11-2024,CUST-001,Corporate,East,Furniture,Tables,4,9148,0.2,29274,-195
+ORD-00533,26-11-2024,CUST-038,Consumer,North,Furniture,Tables,1,8479,0.2,6783,-153
+ORD-00534,03-05-2025,CUST-160,Home Office,North,Furniture,Bookcases,6,6195,0.3,26019,-2206
+ORD-00535,24-11-2025,CUST-094,Consumer,South,Technology,Copiers,5,23741,0,118705,31309
+ORD-00536,27-11-2025,CUST-228,Consumer,South,Furniture,Tables,7,8861,0,62027,6210
+ORD-00537,06-11-2024,CUST-188,Consumer,North,Technology,Accessories,1,1663,0.2,1330,171
+ORD-00538,01-10-2024,CUST-116,Consumer,West,Furniture,Tables,2,9454,0.1,17017,-881
+ORD-00539,06-12-2024,CUST-183,Home Office,South,Technology,Accessories,7,1618,0.1,10193,2155
+ORD-00540,07-03-2025,CUST-244,Corporate,South,Furniture,Chairs,1,4613,0.1,4152,501
+ORD-00541,11-12-2024,CUST-121,Home Office,South,Office Supplies,Paper,4,459,0.2,1469,275
+ORD-00542,23-05-2025,CUST-163,Corporate,East,Furniture,Chairs,3,4151,0,12453,1560
+ORD-00543,22-02-2025,CUST-226,Consumer,West,Furniture,Tables,7,8358,0.1,52655,-174
+ORD-00544,24-09-2024,CUST-059,Consumer,North,Furniture,Tables,6,7900,0,47400,3888
+ORD-00545,11-10-2024,CUST-215,Consumer,South,Office Supplies,Binders,7,254,0,1778,506
+ORD-00546,30-10-2024,CUST-020,Home Office,West,Furniture,Chairs,3,4653,0.2,11167,56
+ORD-00547,30-03-2024,CUST-166,Consumer,North,Technology,Phones,5,16017,0.1,72076,10221
+ORD-00548,28-05-2024,CUST-194,Consumer,West,Technology,Copiers,5,23766,0,118830,33979
+ORD-00549,13-07-2025,CUST-154,Consumer,West,Technology,Accessories,7,1281,0.3,6277,541
+ORD-00550,05-11-2024,CUST-127,Corporate,East,Office Supplies,Paper,1,416,0.2,333,75
+ORD-00551,05-07-2024,CUST-155,Consumer,West,Office Supplies,Binders,7,287,0.1,1808,361
+ORD-00552,02-03-2025,CUST-029,Corporate,South,Technology,Phones,3,14075,0.4,25335,-946
+ORD-00553,07-08-2025,CUST-048,Corporate,South,Office Supplies,Binders,1,226,0,226,70
+ORD-00554,08-08-2024,CUST-063,Home Office,North,Furniture,Bookcases,5,5607,0.2,22428,172
+ORD-00555,29-09-2025,CUST-153,Consumer,North,Office Supplies,Storage,6,1173,0,7038,732
+ORD-00556,24-11-2025,CUST-114,Consumer,South,Technology,Accessories,1,1388,0,1388,314
+ORD-00557,02-04-2025,CUST-057,Consumer,East,Office Supplies,Paper,1,382,0,382,161
+ORD-00558,31-05-2025,CUST-214,Home Office,East,Office Supplies,Binders,7,260,0,1820,463
+ORD-00559,21-02-2024,CUST-094,Home Office,North,Office Supplies,Binders,7,238,0.1,1499,416
+ORD-00560,03-12-2025,CUST-115,Corporate,East,Office Supplies,Binders,2,242,0,484,164
+ORD-00561,06-11-2024,CUST-105,Consumer,North,Technology,Accessories,7,1293,0.1,8146,1758
+ORD-00562,22-11-2025,CUST-037,Consumer,South,Furniture,Chairs,7,5064,0,35448,4586
+ORD-00563,17-03-2025,CUST-180,Corporate,North,Technology,Accessories,7,1458,0,10206,2301
+ORD-00564,05-01-2024,CUST-116,Consumer,West,Furniture,Tables,2,8536,0.4,10243,-1908
+ORD-00565,07-02-2024,CUST-002,Corporate,East,Office Supplies,Storage,5,1051,0.2,4204,-163
+ORD-00566,09-06-2025,CUST-241,Home Office,West,Furniture,Bookcases,7,6242,0.4,26216,-4427
+ORD-00567,02-03-2025,CUST-198,Consumer,North,Furniture,Bookcases,7,6655,0.1,41926,2488
+ORD-00568,27-01-2024,CUST-179,Consumer,East,Furniture,Bookcases,5,5174,0,25870,3091
+ORD-00569,29-07-2025,CUST-210,Consumer,West,Technology,Copiers,2,22340,0.1,40212,8385
+ORD-00570,15-10-2025,CUST-223,Consumer,North,Technology,Copiers,1,22348,0.1,20113,5235
+ORD-00571,29-12-2024,CUST-083,Corporate,South,Office Supplies,Storage,2,1237,0,2474,331
+ORD-00572,13-12-2024,CUST-153,Consumer,North,Technology,Phones,1,16896,0.3,11827,536
+ORD-00573,06-01-2024,CUST-153,Consumer,North,Furniture,Bookcases,2,5888,0.1,10598,605
+ORD-00574,31-08-2025,CUST-062,Consumer,East,Furniture,Chairs,1,4289,0.2,3431,212
+ORD-00575,01-10-2024,CUST-050,Consumer,North,Furniture,Chairs,6,4859,0.1,26239,2737
+ORD-00576,31-10-2025,CUST-025,Corporate,East,Technology,Phones,5,16092,0.1,72414,10818
+ORD-00577,27-10-2024,CUST-169,Corporate,West,Office Supplies,Storage,4,1109,0,4436,361
+ORD-00578,04-03-2025,CUST-193,Consumer,North,Technology,Accessories,6,1347,0.4,4849,31
+ORD-00579,18-08-2024,CUST-187,Consumer,North,Office Supplies,Storage,3,1149,0,3447,410
+ORD-00580,24-05-2024,CUST-075,Consumer,West,Furniture,Chairs,3,4872,0,14616,2086
+ORD-00581,22-08-2025,CUST-044,Consumer,East,Furniture,Chairs,2,4763,0,9526,1556
+ORD-00582,29-12-2024,CUST-118,Consumer,West,Office Supplies,Binders,4,262,0.1,943,244
+ORD-00583,05-02-2025,CUST-138,Home Office,South,Furniture,Chairs,2,4945,0.4,5934,-464
+ORD-00584,13-12-2025,CUST-226,Consumer,East,Furniture,Chairs,5,4199,0.3,14696,-519
+ORD-00585,12-12-2025,CUST-212,Consumer,West,Technology,Phones,7,14279,0.2,79962,3033
+ORD-00586,17-10-2025,CUST-225,Consumer,North,Office Supplies,Storage,4,1035,0.4,2484,-216
+ORD-00587,14-06-2024,CUST-206,Corporate,West,Office Supplies,Paper,3,444,0.2,1066,288
+ORD-00588,30-03-2025,CUST-241,Consumer,East,Furniture,Chairs,5,4611,0,23055,2754
+ORD-00589,30-10-2025,CUST-123,Home Office,West,Office Supplies,Binders,6,235,0.1,1269,297
+ORD-00590,28-10-2024,CUST-007,Consumer,North,Office Supplies,Binders,4,218,0,872,216
+ORD-00591,05-04-2024,CUST-018,Home Office,East,Office Supplies,Binders,2,267,0,534,161
+ORD-00592,18-09-2025,CUST-098,Corporate,North,Office Supplies,Storage,5,1290,0,6450,736
+ORD-00593,22-12-2024,CUST-060,Consumer,West,Furniture,Bookcases,2,6299,0,12598,1043
+ORD-00594,04-03-2025,CUST-035,Consumer,North,Office Supplies,Storage,7,1093,0.4,4591,-333
+ORD-00595,22-12-2025,CUST-239,Consumer,North,Furniture,Bookcases,3,6744,0.4,12139,-2120
+ORD-00596,10-04-2025,CUST-041,Home Office,West,Office Supplies,Binders,3,269,0,807,259
+ORD-00597,22-11-2024,CUST-240,Home Office,South,Technology,Copiers,6,26183,0.2,125678,30867
+ORD-00598,25-10-2024,CUST-187,Consumer,East,Office Supplies,Binders,1,261,0,261,87
+ORD-00599,19-11-2024,CUST-162,Consumer,South,Technology,Copiers,2,28033,0,56066,16767
+ORD-00600,20-04-2024,CUST-172,Consumer,East,Technology,Copiers,1,28212,0,28212,7504
+ORD-00601,06-09-2025,CUST-081,Consumer,North,Technology,Copiers,3,25717,0,77151,19993
+ORD-00602,06-10-2025,CUST-165,Corporate,East,Office Supplies,Binders,4,244,0,976,281
+ORD-00603,29-08-2024,CUST-038,Consumer,East,Office Supplies,Paper,2,384,0,768,276
+ORD-00604,12-09-2024,CUST-233,Consumer,South,Furniture,Tables,3,9862,0,29586,1137
+ORD-00605,28-10-2025,CUST-069,Home Office,South,Office Supplies,Binders,6,261,0,1566,454
+ORD-00606,24-01-2024,CUST-060,Corporate,North,Technology,Accessories,7,1310,0.3,6419,430
+ORD-00607,20-01-2025,CUST-177,Corporate,West,Furniture,Bookcases,1,5356,0,5356,614
+ORD-00608,12-12-2024,CUST-169,Consumer,North,Technology,Accessories,5,1680,0,8400,1788
+ORD-00609,17-06-2025,CUST-117,Home Office,South,Office Supplies,Storage,1,1338,0.1,1204,48
+ORD-00610,26-05-2024,CUST-160,Corporate,South,Office Supplies,Binders,4,284,0,1136,335
+ORD-00611,30-05-2025,CUST-032,Consumer,East,Office Supplies,Binders,7,245,0.1,1544,362
+ORD-00612,29-10-2024,CUST-172,Consumer,West,Technology,Accessories,6,1628,0,9768,2980
+ORD-00613,20-04-2025,CUST-063,Home Office,East,Office Supplies,Binders,2,275,0.1,495,122
+ORD-00614,09-02-2024,CUST-064,Corporate,West,Technology,Phones,2,14171,0.1,25508,1826
+ORD-00615,11-12-2024,CUST-033,Home Office,West,Office Supplies,Paper,6,357,0.2,1714,467
+ORD-00616,22-01-2025,CUST-081,Corporate,West,Technology,Copiers,6,28728,0.1,155131,39771
+ORD-00617,05-07-2024,CUST-081,Corporate,West,Furniture,Bookcases,2,5154,0,10308,992
+ORD-00618,07-05-2024,CUST-118,Corporate,North,Furniture,Bookcases,1,6175,0,6175,393
+ORD-00619,15-06-2024,CUST-040,Home Office,West,Furniture,Chairs,4,4703,0,18812,3814
+ORD-00620,10-10-2024,CUST-041,Consumer,West,Furniture,Tables,5,9491,0.1,42710,-1371
+ORD-00621,01-04-2024,CUST-137,Consumer,East,Technology,Phones,4,13900,0,55600,11110
+ORD-00622,04-12-2025,CUST-027,Corporate,North,Technology,Accessories,7,1600,0,11200,2867
+ORD-00623,13-11-2024,CUST-172,Consumer,North,Furniture,Tables,6,8234,0.2,39523,-1659
+ORD-00624,16-09-2025,CUST-235,Corporate,East,Technology,Phones,6,16481,0,98886,22863
+ORD-00625,18-12-2025,CUST-110,Corporate,South,Technology,Copiers,1,22893,0,22893,7254
+ORD-00626,18-03-2024,CUST-220,Corporate,West,Furniture,Bookcases,6,6354,0.2,30499,-1121
+ORD-00627,17-05-2025,CUST-021,Corporate,South,Technology,Phones,6,16275,0,97650,20817
+ORD-00628,26-10-2025,CUST-007,Consumer,East,Technology,Phones,3,13600,0.3,28560,-541
+ORD-00629,04-05-2025,CUST-179,Home Office,North,Technology,Accessories,5,1382,0.4,4146,62
+ORD-00630,24-11-2024,CUST-187,Consumer,North,Technology,Phones,6,16256,0.4,58522,-5782
+ORD-00631,25-11-2024,CUST-205,Corporate,North,Office Supplies,Paper,7,350,0,2450,855
+ORD-00632,05-02-2024,CUST-010,Home Office,West,Furniture,Bookcases,4,5443,0,21772,2211
+ORD-00633,03-02-2025,CUST-192,Consumer,East,Technology,Phones,1,14800,0.1,13320,1745
+ORD-00634,28-12-2025,CUST-094,Consumer,West,Technology,Phones,5,16936,0.1,76212,5253
+ORD-00635,10-12-2025,CUST-070,Consumer,West,Furniture,Tables,5,9167,0.1,41252,615
+ORD-00636,09-02-2024,CUST-036,Corporate,West,Office Supplies,Paper,1,387,0,387,138
+ORD-00637,29-06-2025,CUST-249,Consumer,East,Furniture,Bookcases,6,6861,0,41166,5697
+ORD-00638,11-09-2024,CUST-012,Consumer,West,Furniture,Bookcases,2,5935,0,11870,1062
+ORD-00639,12-11-2025,CUST-200,Home Office,West,Office Supplies,Binders,7,245,0,1715,457
+ORD-00640,14-02-2024,CUST-162,Consumer,West,Office Supplies,Storage,4,1168,0,4672,571
+ORD-00641,28-11-2025,CUST-181,Corporate,North,Office Supplies,Paper,3,377,0.4,679,76
+ORD-00642,06-10-2025,CUST-177,Corporate,East,Office Supplies,Storage,1,1137,0,1137,180
+ORD-00643,19-04-2024,CUST-209,Consumer,North,Office Supplies,Binders,1,264,0.1,238,57
+ORD-00644,28-02-2024,CUST-038,Consumer,North,Technology,Accessories,6,1293,0.4,4655,25
+ORD-00645,04-10-2025,CUST-001,Home Office,West,Office Supplies,Paper,3,422,0,1266,504
+ORD-00646,20-05-2024,CUST-153,Corporate,West,Furniture,Bookcases,6,5462,0.1,29495,291
+ORD-00647,03-02-2025,CUST-087,Consumer,North,Technology,Accessories,2,1448,0.2,2317,212
+ORD-00648,18-11-2025,CUST-026,Corporate,North,Technology,Accessories,7,1341,0,9387,2462
+ORD-00649,07-03-2025,CUST-038,Consumer,West,Office Supplies,Storage,7,1219,0.1,7680,207
+ORD-00650,09-11-2024,CUST-081,Consumer,North,Office Supplies,Binders,1,267,0.3,187,16
+ORD-00651,02-12-2024,CUST-014,Corporate,North,Technology,Accessories,5,1435,0.2,5740,890
+ORD-00652,02-03-2024,CUST-010,Consumer,West,Technology,Copiers,7,22476,0.3,110132,14951
+ORD-00653,15-12-2025,CUST-225,Consumer,West,Furniture,Tables,3,8262,0.4,14872,-3236
+ORD-00654,17-09-2024,CUST-073,Home Office,East,Office Supplies,Binders,1,274,0,274,77
+ORD-00655,16-06-2024,CUST-246,Consumer,East,Technology,Accessories,7,1395,0.2,7812,804
+ORD-00656,31-08-2024,CUST-241,Consumer,South,Technology,Accessories,4,1624,0.1,5846,1422
+ORD-00657,13-12-2025,CUST-027,Consumer,South,Office Supplies,Paper,1,380,0.2,304,87
+ORD-00658,30-03-2024,CUST-177,Corporate,West,Technology,Copiers,6,22665,0.2,108792,18209
+ORD-00659,24-10-2025,CUST-153,Corporate,West,Furniture,Chairs,5,4807,0.2,19228,909
+ORD-00660,30-06-2025,CUST-172,Home Office,South,Furniture,Bookcases,1,5943,0.3,4160,-502
+ORD-00661,01-10-2025,CUST-020,Consumer,South,Furniture,Tables,2,7734,0,15468,616
+ORD-00662,19-12-2025,CUST-039,Corporate,South,Office Supplies,Paper,1,455,0.2,364,96
+ORD-00663,09-10-2025,CUST-017,Corporate,North,Furniture,Chairs,7,4024,0,28168,4607
+ORD-00664,02-12-2025,CUST-153,Consumer,South,Furniture,Tables,1,8604,0.1,7744,-23
+ORD-00665,27-04-2024,CUST-247,Consumer,North,Technology,Copiers,6,24136,0.2,115853,21716
+ORD-00666,07-09-2025,CUST-172,Corporate,West,Office Supplies,Paper,4,399,0.2,1277,335
+ORD-00667,14-02-2025,CUST-177,Consumer,South,Technology,Accessories,5,1628,0,8140,1995
+ORD-00668,12-02-2025,CUST-246,Corporate,West,Office Supplies,Binders,6,213,0.1,1150,266
+ORD-00669,10-11-2025,CUST-172,Corporate,East,Office Supplies,Storage,7,1356,0,9492,1018
+ORD-00670,17-12-2025,CUST-007,Consumer,West,Furniture,Tables,1,9394,0,9394,629
+ORD-00671,28-06-2025,CUST-210,Home Office,West,Office Supplies,Storage,1,1362,0,1362,180
+ORD-00672,22-12-2024,CUST-091,Corporate,South,Technology,Copiers,1,27380,0.3,19166,2414
+ORD-00673,08-12-2024,CUST-001,Consumer,North,Technology,Copiers,5,28209,0,141045,37326
+ORD-00674,03-11-2024,CUST-128,Corporate,West,Furniture,Chairs,4,4636,0.4,11126,-1335
+ORD-00675,20-10-2024,CUST-233,Consumer,North,Technology,Copiers,1,23930,0,23930,7465
+ORD-00676,06-11-2024,CUST-060,Corporate,South,Office Supplies,Paper,2,393,0.2,629,191
+ORD-00677,26-03-2024,CUST-125,Consumer,North,Technology,Copiers,4,26185,0.1,94266,23055
+ORD-00678,15-03-2024,CUST-037,Consumer,West,Furniture,Chairs,6,4401,0.2,21125,373
+ORD-00679,26-08-2025,CUST-010,Consumer,North,Technology,Accessories,3,1604,0.1,4331,852
+ORD-00680,03-12-2024,CUST-018,Consumer,East,Office Supplies,Storage,7,1053,0.2,5897,-201
+ORD-00681,25-11-2025,CUST-179,Consumer,East,Office Supplies,Paper,7,440,0.3,2156,516
+ORD-00682,15-04-2025,CUST-210,Consumer,East,Furniture,Tables,6,8201,0.1,44285,248
+ORD-00683,04-02-2024,CUST-027,Home Office,South,Office Supplies,Storage,4,1360,0,5440,544
+ORD-00684,22-05-2024,CUST-067,Consumer,West,Office Supplies,Storage,7,1076,0,7532,866
+ORD-00685,28-06-2024,CUST-041,Consumer,West,Furniture,Tables,6,7999,0.2,38395,-2911
+ORD-00686,19-12-2025,CUST-005,Consumer,East,Office Supplies,Binders,4,273,0.1,983,275
+ORD-00687,09-07-2024,CUST-140,Corporate,South,Technology,Phones,4,16434,0.1,59162,6740
+ORD-00688,15-01-2025,CUST-174,Consumer,West,Technology,Copiers,6,26791,0.1,144671,35395
+ORD-00689,28-11-2025,CUST-165,Corporate,West,Technology,Accessories,4,1707,0,6828,1825
+ORD-00690,20-12-2025,CUST-097,Corporate,South,Office Supplies,Binders,2,233,0.2,373,59
+ORD-00691,23-07-2024,CUST-140,Consumer,South,Office Supplies,Storage,7,1318,0.2,7381,43
+ORD-00692,18-02-2024,CUST-020,Home Office,North,Office Supplies,Binders,1,239,0.2,191,36
+ORD-00693,18-05-2024,CUST-030,Consumer,North,Office Supplies,Storage,5,1213,0.2,4852,-226
+ORD-00694,03-03-2024,CUST-231,Corporate,North,Office Supplies,Storage,5,1180,0.3,4130,-216
+ORD-00695,20-06-2024,CUST-187,Consumer,North,Furniture,Chairs,5,3833,0.1,17248,1529
+ORD-00696,08-03-2025,CUST-228,Corporate,North,Furniture,Bookcases,1,6134,0.4,3680,-501
+ORD-00697,17-11-2025,CUST-225,Home Office,West,Office Supplies,Paper,4,430,0,1720,655
+ORD-00698,06-02-2025,CUST-166,Consumer,West,Technology,Copiers,7,22559,0.1,142122,35214
+ORD-00699,27-04-2025,CUST-230,Consumer,West,Furniture,Chairs,2,5083,0.2,8133,570
+ORD-00700,25-06-2024,CUST-106,Consumer,East,Furniture,Chairs,5,4541,0.1,20434,1116
+ORD-00701,10-09-2025,CUST-001,Consumer,East,Technology,Accessories,7,1355,0,9485,2274
+ORD-00702,20-04-2025,CUST-011,Home Office,North,Technology,Copiers,7,26095,0.1,164398,42743
+ORD-00703,22-10-2025,CUST-024,Corporate,West,Furniture,Tables,4,8168,0,32672,2432
+ORD-00704,05-12-2025,CUST-020,Corporate,South,Furniture,Tables,3,7822,0.3,16426,-1745
+ORD-00705,12-10-2024,CUST-086,Home Office,East,Furniture,Tables,5,9500,0,47500,6774
+ORD-00706,26-03-2024,CUST-175,Home Office,West,Technology,Copiers,4,22080,0,88320,28123
+ORD-00707,14-07-2024,CUST-195,Corporate,West,Furniture,Chairs,5,3968,0.1,17856,2213
+ORD-00708,29-11-2024,CUST-152,Consumer,South,Technology,Copiers,6,26800,0,160800,46759
+ORD-00709,03-12-2025,CUST-028,Consumer,West,Technology,Accessories,5,1300,0,6500,1431
+ORD-00710,30-10-2024,CUST-183,Consumer,North,Technology,Accessories,2,1639,0.1,2950,533
+ORD-00711,19-08-2025,CUST-087,Consumer,North,Office Supplies,Paper,6,436,0.1,2354,804
+ORD-00712,09-02-2025,CUST-002,Consumer,North,Technology,Accessories,4,1339,0,5356,1404
+ORD-00713,10-06-2024,CUST-067,Consumer,North,Office Supplies,Paper,7,402,0.1,2533,841
+ORD-00714,24-09-2024,CUST-080,Consumer,West,Office Supplies,Paper,5,352,0.1,1584,497
+ORD-00715,19-05-2025,CUST-064,Consumer,South,Office Supplies,Storage,7,1248,0.2,6989,-78
+ORD-00716,03-06-2025,CUST-198,Consumer,North,Office Supplies,Binders,7,217,0,1519,448
+ORD-00717,27-11-2024,CUST-186,Consumer,West,Technology,Accessories,7,1700,0,11900,3234
+ORD-00718,16-07-2024,CUST-172,Consumer,East,Technology,Accessories,6,1368,0.4,4925,173
+ORD-00719,12-07-2025,CUST-027,Consumer,South,Furniture,Bookcases,5,6329,0.1,28480,279
+ORD-00720,30-05-2024,CUST-198,Corporate,East,Technology,Copiers,1,22212,,22212,7172
+ORD-00721,28-11-2025,CUST-172,Corporate,East,Furniture,Tables,3,8216,0.3,17254,-2407
+ORD-00722,14-06-2024,CUST-041,Consumer,East,Office Supplies,Storage,4,1182,0,4728,634
+ORD-00723,10-04-2024,CUST-165,Consumer,East,Office Supplies,Binders,6,255,0.2,1224,213
+ORD-00724,30-12-2024,CUST-124,Consumer,West,Furniture,Tables,5,10347,0.2,41388,-539
+ORD-00725,19-01-2025,CUST-113,Consumer,South,Office Supplies,Binders,4,214,0.4,514,24
+ORD-00726,08-01-2025,CUST-025,Consumer,East,Furniture,Tables,2,7651,0.4,9181,-1603
+ORD-00727,28-11-2024,CUST-131,Home Office,North,Office Supplies,Paper,6,382,0,2292,913
+ORD-00728,29-12-2025,CUST-021,Consumer,West,Furniture,Chairs,4,4319,0.2,13821,52
+ORD-00729,24-12-2024,CUST-034,Consumer,South,Technology,Accessories,1,1673,0,1673,415
+ORD-00730,20-12-2024,CUST-027,Corporate,South,Technology,Copiers,2,28094,0.1,50569,11732
+ORD-00731,21-11-2024,CUST-239,Consumer,West,Office Supplies,Paper,7,446,0.1,2810,856
+ORD-00732,06-03-2024,CUST-067,Consumer,East,Technology,Phones,1,13394,0,13394,2234
+ORD-00733,29-03-2025,CUST-088,Consumer,North,Office Supplies,Storage,3,1168,0,3504,537
+ORD-00734,16-07-2024,CUST-077,Home Office,South,Office Supplies,Paper,4,430,0,1720,623
+ORD-00735,06-05-2025,CUST-219,Consumer,South,Furniture,Tables,1,8494,0,8494,654
+ORD-00736,19-02-2024,CUST-144,Corporate,West,Office Supplies,Paper,2,420,0,840,327
+ORD-00737,22-12-2025,CUST-226,Corporate,East,Office Supplies,Paper,7,368,0.3,1803,285
+ORD-00738,15-12-2024,CUST-069,Consumer,South,Technology,Phones,5,14205,0.1,63922,8666
+ORD-00739,09-11-2025,CUST-025,Corporate,East,Office Supplies,Paper,2,443,0.2,709,154
+ORD-00740,18-12-2024,CUST-141,Consumer,South,Office Supplies,Storage,2,1110,0.3,1554,-64
+ORD-00741,29-02-2024,CUST-084,Consumer,North,Office Supplies,Binders,3,285,0.2,684,113
+ORD-00742,26-09-2025,CUST-198,Consumer,West,Office Supplies,Paper,6,377,0,2262,860
+ORD-00743,15-05-2025,CUST-213,Home Office,North,Technology,Copiers,6,21426,0.3,89989,7305
+ORD-00744,28-08-2025,CUST-124,Consumer,West,Furniture,Bookcases,2,5559,0.2,8894,-145
+ORD-00745,24-11-2024,CUST-243,Consumer,West,Office Supplies,Binders,6,225,0.2,1080,224
+ORD-00746,07-05-2025,CUST-140,Home Office,North,Technology,Phones,7,15031,0.3,73652,-1783
+ORD-00747,17-10-2025,CUST-063,Consumer,West,Technology,Accessories,2,1326,0.1,2387,410
+ORD-00748,01-05-2025,CUST-124,Home Office,West,Furniture,Bookcases,1,6227,0.1,5604,301
+ORD-00749,12-10-2024,CUST-007,Corporate,East,Furniture,Bookcases,7,6675,0.3,32707,-2146
+ORD-00750,26-05-2025,CUST-198,Corporate,East,Furniture,Tables,4,8629,0.1,31064,-2268
+ORD-00751,02-06-2025,CUST-022,Corporate,North,Office Supplies,Storage,6,1081,0.3,4540,2
+ORD-00752,11-12-2025,CUST-072,Corporate,North,Furniture,Tables,3,8730,0,26190,1987
+ORD-00753,26-10-2024,CUST-145,Consumer,West,Furniture,Chairs,3,4886,0,14658,2505
+ORD-00754,22-11-2024,CUST-007,Home Office,North,Office Supplies,Storage,2,1233,0.1,2219,124
+ORD-00755,19-09-2025,CUST-018,Home Office,South,Technology,Accessories,2,1321,0,2642,513
+ORD-00756,06-01-2025,CUST-173,Home Office,East,Technology,Phones,4,15167,0.4,36401,-1447
+ORD-00757,23-07-2025,CUST-015,Corporate,North,Office Supplies,Paper,1,396,0,396,144
+ORD-00758,10-12-2024,CUST-124,Corporate,West,Technology,Phones,6,14222,0.2,68266,5210
+ORD-00759,06-07-2024,CUST-083,Corporate,West,Furniture,Tables,4,7947,0,31788,1699
+ORD-00760,30-07-2025,CUST-051,Consumer,West,Office Supplies,Paper,7,458,0.4,1924,283
+ORD-00761,01-05-2024,CUST-039,Consumer,North,Furniture,Tables,4,8125,0,32500,1194
+ORD-00762,23-06-2024,CUST-187,Corporate,East,Technology,Accessories,3,1362,0,4086,1127
+ORD-00763,27-04-2025,CUST-239,Corporate,West,Office Supplies,Storage,4,1072,0,4288,362
+ORD-00764,01-08-2025,CUST-027,Consumer,South,Office Supplies,Storage,2,1225,0.1,2205,281
+ORD-00765,08-11-2025,CUST-240,Consumer,West,Technology,Phones,6,14747,0.4,53089,379
+ORD-00766,20-08-2024,CUST-153,Corporate,East,Office Supplies,Binders,6,231,0.4,832,91
+ORD-00767,13-04-2024,CUST-163,Consumer,South,Technology,Copiers,2,24471,0,48942,16555
+ORD-00768,08-12-2025,CUST-177,Home Office,South,Technology,Accessories,5,1578,0.1,7101,1331
+ORD-00769,19-05-2024,CUST-175,Corporate,East,Furniture,Tables,4,8411,0,33644,3196
+ORD-00770,22-06-2024,CUST-199,Consumer,North,Technology,Phones,2,16869,0.1,30364,3556
+ORD-00771,03-09-2024,CUST-124,Consumer,West,Technology,Copiers,1,23548,0.1,21193,4099
+ORD-00772,29-01-2025,CUST-134,Corporate,East,Office Supplies,Storage,6,1091,0,6546,1081
+ORD-00773,02-11-2025,CUST-078,Consumer,North,Furniture,Chairs,2,5114,0.1,9205,1140
+ORD-00774,11-08-2025,CUST-023,Home Office,West,Office Supplies,Paper,4,437,0.3,1224,244
+ORD-00775,01-07-2025,CUST-172,Consumer,East,Office Supplies,Binders,2,238,0,476,125
+ORD-00776,04-06-2024,CUST-006,Consumer,North,Office Supplies,Storage,5,1323,0,6615,677
+ORD-00777,18-10-2024,CUST-065,Consumer,West,Technology,Phones,1,15085,0,15085,1891
+ORD-00778,20-12-2024,CUST-020,Corporate,West,Furniture,Tables,3,8586,0,25758,2276
+ORD-00779,14-05-2024,CUST-040,Home Office,East,Furniture,Bookcases,4,6611,0,26444,1372
+ORD-00780,21-08-2024,CUST-161,Home Office,West,Office Supplies,Binders,4,269,,968,241
+ORD-00781,16-09-2024,CUST-158,Consumer,East,Office Supplies,Binders,5,235,0,1175,323
+ORD-00782,27-04-2024,CUST-108,Corporate,East,Technology,Copiers,2,25800,0.2,41280,5664
+ORD-00783,18-02-2025,CUST-019,Consumer,North,Furniture,Tables,4,8647,0.3,24212,-2732
+ORD-00784,28-06-2025,CUST-111,Corporate,North,Furniture,Tables,6,7653,0.4,27551,-5235
+ORD-00785,08-03-2024,CUST-087,Home Office,East,Technology,Accessories,3,1708,0.2,4099,636
+ORD-00786,21-12-2024,CUST-179,Consumer,East,Technology,Copiers,2,25372,0,50744,13293
+ORD-00787,28-08-2025,CUST-149,Home Office,West,Furniture,Chairs,6,4633,0,27798,3538
+ORD-00788,01-08-2025,CUST-125,Consumer,East,Office Supplies,Paper,6,412,0,2472,762
+ORD-00789,21-09-2025,CUST-124,Consumer,East,Technology,Accessories,5,1523,0.4,4569,-254
+ORD-00790,04-12-2024,CUST-242,Corporate,West,Furniture,Chairs,6,4217,0.4,15181,-547
+ORD-00791,25-09-2025,CUST-185,Home Office,West,Furniture,Chairs,6,5137,0,30822,6550
+ORD-00792,26-07-2024,CUST-127,Consumer,South,Technology,Accessories,6,1555,0,9330,2358
+ORD-00793,20-10-2024,CUST-124,Corporate,West,Office Supplies,Paper,4,421,0.1,1516,448
+ORD-00794,05-06-2024,CUST-005,Consumer,West,Office Supplies,Binders,1,247,0,247,72
+ORD-00795,14-12-2024,CUST-235,Corporate,North,Technology,Phones,5,14045,0.4,42135,-1424
+ORD-00796,06-11-2024,CUST-076,Corporate,South,Furniture,Bookcases,2,5216,0,10432,882
+ORD-00797,26-07-2024,CUST-060,Consumer,North,Office Supplies,Storage,6,1146,0,6876,874
+ORD-00798,04-08-2025,CUST-250,Corporate,East,Technology,Accessories,4,1354,0,5416,1352
+ORD-00799,20-09-2024,CUST-178,Corporate,East,Furniture,Bookcases,7,6292,0,44044,3653
+ORD-00800,20-08-2024,CUST-007,Consumer,East,Technology,Phones,5,16706,,83530,13717
+ORD-00801,01-05-2024,CUST-011,Consumer,West,Furniture,Chairs,4,4234,0.3,11855,-251
+ORD-00802,29-11-2024,CUST-005,Consumer,South,Furniture,Bookcases,7,5699,0,39893,2820
+ORD-00803,12-09-2024,CUST-153,Home Office,South,Technology,Accessories,4,1577,0.1,5677,1156
+ORD-00804,25-10-2024,CUST-015,Corporate,West,Office Supplies,Storage,3,1074,0,3222,341
+ORD-00805,22-07-2024,CUST-232,Corporate,West,Office Supplies,Paper,3,452,0,1356,520
+ORD-00806,13-08-2025,CUST-233,Corporate,West,Office Supplies,Binders,7,240,0,1680,574
+ORD-00807,25-11-2025,CUST-138,Home Office,North,Technology,Accessories,6,1321,0,7926,1942
+ORD-00808,30-12-2024,CUST-155,Consumer,North,Furniture,Chairs,2,4061,0,8122,1442
+ORD-00809,10-05-2025,CUST-067,Consumer,North,Technology,Phones,4,16947,0,67788,8557
+ORD-00810,24-10-2025,CUST-012,Corporate,East,Office Supplies,Storage,3,1109,0.3,2329,-173
+ORD-00811,31-12-2025,CUST-182,Consumer,South,Furniture,Chairs,5,4719,0.2,18876,582
+ORD-00812,16-04-2025,CUST-022,Consumer,West,Office Supplies,Binders,1,224,0.4,134,16
+ORD-00813,05-11-2025,CUST-019,Corporate,West,Office Supplies,Paper,5,363,0,1815,583
+ORD-00814,15-11-2025,CUST-073,Home Office,South,Furniture,Bookcases,6,6683,0.2,32078,-734
+ORD-00815,04-09-2025,CUST-002,Corporate,South,Office Supplies,Binders,2,224,0.2,358,80
+ORD-00816,11-12-2024,CUST-112,Consumer,South,Office Supplies,Binders,2,214,0,428,118
+ORD-00817,18-03-2024,CUST-177,Home Office,East,Furniture,Chairs,5,4502,0,22510,3233
+ORD-00818,16-01-2024,CUST-198,Consumer,West,Furniture,Chairs,2,4990,0.1,8982,898
+ORD-00819,19-12-2024,CUST-153,Consumer,North,Technology,Copiers,7,23695,0.2,132692,24619
+ORD-00820,28-12-2024,CUST-205,Home Office,West,Office Supplies,Storage,6,1066,0.1,5756,616
+ORD-00821,14-11-2024,CUST-104,Corporate,North,Furniture,Chairs,7,5151,0,36057,5894
+ORD-00822,07-03-2025,CUST-206,Home Office,South,Technology,Copiers,4,26326,0.4,63182,6308
+ORD-00823,20-02-2025,CUST-128,Corporate,West,Furniture,Tables,7,9947,0,69629,3426
+ORD-00824,05-10-2025,CUST-050,Corporate,North,Technology,Copiers,1,26891,0.4,16135,610
+ORD-00825,11-04-2024,CUST-236,Consumer,North,Technology,Copiers,3,26487,0.3,55623,6298
+ORD-00826,14-07-2024,CUST-065,Consumer,East,Furniture,Chairs,1,4344,0.3,3041,-197
+ORD-00827,05-09-2025,CUST-005,Home Office,South,Office Supplies,Paper,5,379,0.2,1516,416
+ORD-00828,12-10-2025,CUST-056,Home Office,North,Office Supplies,Storage,4,1278,0,5112,554
+ORD-00829,29-12-2025,CUST-092,Consumer,North,Office Supplies,Binders,3,266,0.1,718,158
+ORD-00830,27-10-2025,CUST-086,Consumer,North,Furniture,Chairs,3,5108,0.2,12259,551
+ORD-00831,05-11-2025,CUST-133,Consumer,East,Furniture,Bookcases,5,6124,0.2,24496,-1330
+ORD-00832,20-09-2024,CUST-215,Consumer,South,Furniture,Bookcases,2,5630,0,11260,1386
+ORD-00833,11-11-2024,CUST-067,Home Office,West,Technology,Accessories,4,1495,0,5980,1409
+ORD-00834,16-08-2024,CUST-133,Consumer,West,Furniture,Tables,5,9307,0,46535,4410
+ORD-00835,10-04-2025,CUST-083,Consumer,North,Office Supplies,Binders,2,245,0.1,441,101
+ORD-00836,29-11-2025,CUST-199,Home Office,South,Office Supplies,Paper,2,435,0.1,783,265
+ORD-00837,10-10-2024,CUST-032,Corporate,North,Office Supplies,Binders,3,256,0.3,538,67
+ORD-00838,25-02-2025,CUST-022,Consumer,South,Furniture,Tables,5,7675,0.2,30700,-1157
+ORD-00839,07-09-2024,CUST-128,Consumer,South,Furniture,Chairs,2,4594,0.2,7350,245
+ORD-00840,31-05-2024,CUST-172,Consumer,West,Office Supplies,Storage,3,1248,0,3744,262
+ORD-00841,20-06-2024,CUST-196,Consumer,South,Furniture,Bookcases,4,6747,0.1,24289,1707
+ORD-00842,26-02-2024,CUST-152,Consumer,East,Technology,Copiers,2,24353,0,48706,14484
+ORD-00843,05-12-2025,CUST-190,Consumer,West,Office Supplies,Storage,4,1227,0,4908,705
+ORD-00844,12-11-2024,CUST-099,Consumer,West,Furniture,Chairs,1,4466,0,4466,762
+ORD-00845,04-10-2025,CUST-006,Consumer,South,Furniture,Chairs,1,4543,0,4543,576
+ORD-00846,10-06-2025,CUST-025,Consumer,North,Furniture,Chairs,2,3916,0,7832,960
+ORD-00847,18-06-2024,CUST-007,Home Office,West,Furniture,Tables,3,10073,0.1,27197,535
+ORD-00848,05-06-2024,CUST-080,Consumer,South,Furniture,Chairs,1,5054,0,5054,712
+ORD-00849,19-09-2025,CUST-127,Consumer,West,Office Supplies,Binders,7,254,0,1778,583
+ORD-00850,14-08-2024,CUST-088,Home Office,West,Technology,Copiers,3,25424,0,76272,22474
+ORD-00851,17-11-2025,CUST-143,Consumer,East,Office Supplies,Storage,6,1041,0.1,5621,510
+ORD-00852,08-05-2024,CUST-124,Consumer,South,Office Supplies,Binders,7,257,0.1,1619,409
+ORD-00853,07-06-2025,CUST-172,Home Office,North,Office Supplies,Storage,6,1174,0,7044,906
+ORD-00854,20-09-2025,CUST-172,Corporate,East,Furniture,Bookcases,6,6376,0,38256,3396
+ORD-00855,22-07-2024,CUST-076,Consumer,East,Furniture,Bookcases,1,5185,0.4,3111,-414
+ORD-00856,23-08-2024,CUST-084,Corporate,West,Office Supplies,Binders,3,266,0.1,718,198
+ORD-00857,13-12-2025,CUST-151,Corporate,West,Furniture,Bookcases,6,5616,0.2,26957,-583
+ORD-00858,14-08-2024,CUST-153,Consumer,West,Furniture,Chairs,5,4705,0.1,21172,2243
+ORD-00859,25-11-2024,CUST-074,Consumer,West,Office Supplies,Paper,1,415,0.3,290,58
+ORD-00860,26-11-2024,CUST-080,Consumer,West,Office Supplies,Binders,4,230,0.3,644,80
+ORD-00861,05-08-2024,CUST-172,Home Office,North,Office Supplies,Storage,6,1179,0,7074,1215
+ORD-00862,23-08-2025,CUST-165,Consumer,South,Office Supplies,Storage,6,1321,0.2,6341,229
+ORD-00863,20-08-2025,CUST-027,Consumer,East,Furniture,Tables,3,9285,0,27855,1738
+ORD-00864,30-10-2024,CUST-114,Consumer,East,Office Supplies,Paper,2,348,0.2,557,148
+ORD-00865,04-10-2025,CUST-217,Home Office,North,Office Supplies,Binders,3,246,0,738,206
+ORD-00866,04-07-2024,CUST-007,Consumer,East,Office Supplies,Paper,3,377,0,1131,424
+ORD-00867,05-01-2024,CUST-208,Consumer,South,Office Supplies,Binders,3,261,0.4,470,33
+ORD-00868,10-03-2025,CUST-034,Consumer,South,Office Supplies,Binders,3,259,0.3,544,79
+ORD-00869,28-12-2025,CUST-128,Corporate,West,Technology,Accessories,4,1280,0,5120,1395
+ORD-00870,07-02-2024,CUST-109,Consumer,East,Furniture,Chairs,1,4645,0.4,2787,-344
+ORD-00871,30-06-2024,CUST-002,Home Office,East,Technology,Accessories,2,1606,0,3212,897
+ORD-00872,19-01-2025,CUST-225,Consumer,East,Furniture,Tables,3,9726,0.1,26260,-70
+ORD-00873,17-09-2025,CUST-119,Consumer,East,Furniture,Tables,2,7809,0.3,10933,-1636
+ORD-00874,25-03-2024,CUST-239,Consumer,North,Furniture,Tables,7,8470,0,59290,5934
+ORD-00875,08-11-2024,CUST-067,Consumer,East,Office Supplies,Paper,5,391,0.1,1760,640
+ORD-00876,31-07-2025,CUST-210,Consumer,South,Technology,Accessories,7,1356,0.2,7594,1047
+ORD-00877,26-10-2024,CUST-228,Corporate,East,Technology,Accessories,4,1464,0,5856,1589
+ORD-00878,15-06-2024,CUST-141,Consumer,North,Office Supplies,Paper,1,349,0,349,141
+ORD-00879,20-06-2024,CUST-044,Corporate,West,Technology,Accessories,7,1326,0,9282,2709
+ORD-00880,15-11-2024,CUST-172,Consumer,West,Technology,Copiers,4,26265,0.2,84048,16964
+ORD-00881,20-12-2024,CUST-139,Corporate,South,Furniture,Chairs,5,4179,0,20895,2302
+ORD-00882,21-10-2025,CUST-236,Consumer,South,Office Supplies,Binders,3,266,0,798,288
+ORD-00883,10-05-2025,CUST-113,Corporate,South,Technology,Accessories,4,1297,0.2,4150,672
+ORD-00884,17-06-2025,CUST-062,Consumer,West,Furniture,Tables,4,9169,0,36676,1640
+ORD-00885,23-12-2025,CUST-027,Home Office,East,Office Supplies,Binders,2,242,0,484,130
+ORD-00886,16-11-2024,CUST-174,Home Office,West,Office Supplies,Paper,4,436,0.2,1395,384
+ORD-00887,12-11-2024,CUST-244,Home Office,West,Furniture,Chairs,6,4883,0.2,23438,507
+ORD-00888,22-11-2025,CUST-005,Home Office,East,Furniture,Tables,1,8664,0,8664,606
+ORD-00889,30-07-2024,CUST-182,Consumer,East,Furniture,Chairs,1,4666,0.3,3266,-25
+ORD-00890,18-07-2025,CUST-229,Consumer,East,Furniture,Bookcases,6,5510,0.2,26448,-978
+ORD-00891,06-08-2025,CUST-016,Consumer,East,Furniture,Chairs,4,4609,0,18436,2148
+ORD-00892,02-04-2024,CUST-024,Home Office,East,Office Supplies,Paper,7,350,0.2,1960,532
+ORD-00893,15-12-2024,CUST-172,Consumer,West,Technology,Accessories,5,1471,0.2,5884,671
+ORD-00894,24-06-2024,CUST-165,Consumer,North,Office Supplies,Storage,5,1086,0.1,4887,315
+ORD-00895,12-06-2024,CUST-013,Corporate,North,Office Supplies,Paper,7,446,0.1,2810,786
+ORD-00896,12-12-2024,CUST-201,Consumer,South,Technology,Copiers,5,24587,0.2,98348,16959
+ORD-00897,02-09-2024,CUST-133,Corporate,West,Technology,Accessories,3,1541,0.4,2774,87
+ORD-00898,07-09-2025,CUST-223,Consumer,East,Furniture,Chairs,4,4312,0.1,15523,1679
+ORD-00899,14-11-2025,CUST-212,Corporate,South,Furniture,Chairs,2,4215,0.3,5901,-317
+ORD-00900,12-09-2025,CUST-198,Home Office,South,Technology,Copiers,3,22772,0.2,54653,7922
+ORD-00901,15-08-2024,CUST-130,Corporate,East,Furniture,Chairs,5,5056,0.3,17696,-523
+ORD-00902,21-08-2024,CUST-059,Consumer,West,Furniture,Chairs,2,4904,0.4,5885,-431
+ORD-00903,06-08-2024,CUST-128,Consumer,West,Furniture,Tables,5,8010,0,40050,2890
+ORD-00904,04-05-2024,CUST-021,Consumer,West,Office Supplies,Binders,5,269,,1345,383
+ORD-00905,02-12-2025,CUST-169,Consumer,West,Technology,Accessories,3,1463,0.1,3950,786
+ORD-00906,11-11-2024,CUST-027,Corporate,North,Office Supplies,Paper,1,342,0,342,145
+ORD-00907,13-07-2024,CUST-128,Consumer,South,Technology,Phones,5,15128,0.1,68076,8588
+ORD-00908,11-10-2025,CUST-008,Consumer,East,Furniture,Tables,6,8001,0.2,38405,-4186
+ORD-00909,10-11-2024,CUST-069,Consumer,East,Technology,Phones,6,13695,0.4,49302,-2658
+ORD-00910,04-02-2024,CUST-052,Home Office,North,Furniture,Chairs,3,4765,0,14295,3021
+ORD-00911,25-05-2024,CUST-156,Consumer,West,Office Supplies,Paper,5,371,0.2,1484,329
+ORD-00912,08-05-2025,CUST-195,Consumer,North,Furniture,Tables,3,10058,0,30174,1837
+ORD-00913,29-08-2025,CUST-010,Consumer,South,Technology,Phones,3,15707,0.1,42409,4801
+ORD-00914,03-07-2024,CUST-206,Consumer,South,Office Supplies,Storage,3,1320,0,3960,487
+ORD-00915,19-11-2025,CUST-210,Home Office,West,Technology,Copiers,2,25864,0.1,46555,11445
+ORD-00916,14-10-2025,CUST-084,Consumer,West,Technology,Accessories,7,1666,0.1,10496,2353
+ORD-00917,12-10-2025,CUST-169,Corporate,East,Technology,Accessories,5,1438,0.2,5752,762
+ORD-00918,16-07-2024,CUST-102,Corporate,West,Office Supplies,Binders,2,254,0.1,457,127
+ORD-00919,19-02-2024,CUST-030,Corporate,West,Furniture,Bookcases,7,6029,0,42203,4071
+ORD-00920,24-10-2025,CUST-134,Corporate,South,Technology,Copiers,2,28028,0,56056,16228
+ORD-00921,14-09-2024,CUST-019,Corporate,West,Office Supplies,Binders,5,225,0,1125,315
+ORD-00922,21-04-2025,CUST-213,Consumer,North,Technology,Copiers,2,25585,0.4,30702,168
+ORD-00923,10-08-2025,CUST-228,Consumer,East,Technology,Accessories,3,1614,0.4,2905,53
+ORD-00924,28-04-2024,CUST-199,Corporate,North,Furniture,Tables,5,8649,0,43245,5259
+ORD-00925,27-08-2025,CUST-144,Corporate,East,Furniture,Bookcases,7,6662,0,46634,5304
+ORD-00926,29-11-2025,CUST-142,Consumer,East,Office Supplies,Storage,7,1154,0,8078,1136
+ORD-00927,17-07-2025,CUST-246,Consumer,North,Technology,Accessories,7,1353,0.2,7577,891
+ORD-00928,30-11-2024,CUST-059,Consumer,East,Furniture,Bookcases,2,6151,0,12302,1140
+ORD-00929,30-10-2025,CUST-016,Consumer,East,Technology,Phones,1,14643,0,14643,3068
+ORD-00930,27-01-2025,CUST-143,Consumer,East,Technology,Copiers,7,21364,0,149548,53876
+ORD-00931,30-07-2025,CUST-080,Consumer,North,Technology,Accessories,7,1306,0,9142,2694
+ORD-00932,25-09-2025,CUST-077,Consumer,North,Office Supplies,Paper,2,363,0,726,293
+ORD-00933,02-08-2025,CUST-001,Corporate,South,Furniture,Bookcases,1,6485,0,6485,655
+ORD-00934,01-09-2024,CUST-153,Corporate,West,Technology,Copiers,5,27940,0.2,111760,20820
+ORD-00935,19-04-2024,CUST-061,Corporate,West,Technology,Phones,1,15205,0.1,13684,1333
+ORD-00936,24-07-2024,CUST-039,Corporate,South,Office Supplies,Storage,1,1058,0,1058,81
+ORD-00937,03-01-2025,CUST-007,Consumer,West,Furniture,Tables,7,9093,0.1,57286,-1936
+ORD-00938,05-01-2025,CUST-091,Consumer,East,Furniture,Tables,4,9960,0.1,35856,54
+ORD-00939,20-03-2025,CUST-213,Corporate,West,Technology,Accessories,1,1612,0.2,1290,156
+ORD-00940,08-11-2024,CUST-083,Corporate,North,Technology,Accessories,5,1406,0.4,4218,-144
+ORD-00941,01-09-2025,CUST-172,Corporate,East,Office Supplies,Paper,3,355,0,1065,404
+ORD-00942,17-11-2025,CUST-185,Corporate,East,Technology,Phones,4,16803,0.3,47048,-449
+ORD-00943,31-07-2024,CUST-080,Corporate,South,Office Supplies,Storage,7,1327,0.2,7431,-261
+ORD-00944,23-07-2025,CUST-199,Corporate,North,Technology,Accessories,2,1299,0.2,2078,247
+ORD-00945,07-06-2025,CUST-172,Corporate,North,Furniture,Tables,5,9874,0,49370,2487
+ORD-00946,23-01-2025,CUST-142,Corporate,East,Furniture,Tables,6,7912,0,47472,1970
+ORD-00947,15-06-2024,CUST-001,Consumer,West,Office Supplies,Storage,3,1043,0,3129,462
+ORD-00948,07-09-2025,CUST-006,Consumer,West,Furniture,Tables,7,9698,0.4,40732,-9657
+ORD-00949,11-12-2025,CUST-247,Consumer,North,Office Supplies,Storage,4,1213,0.1,4367,2
+ORD-00950,11-07-2025,CUST-193,Corporate,West,Furniture,Bookcases,4,5846,0,23384,2341
+ORD-00951,19-11-2025,CUST-233,Corporate,South,Furniture,Chairs,7,5045,0.1,31784,2952
+ORD-00952,23-12-2025,CUST-220,Consumer,West,Furniture,Bookcases,5,6611,0,33055,3706
+ORD-00953,14-10-2024,CUST-004,Consumer,North,Technology,Copiers,7,21682,0,151774,43078
+ORD-00954,07-05-2025,CUST-195,Corporate,West,Technology,Phones,6,15522,0.1,83819,7750
+ORD-00955,18-12-2024,CUST-117,Consumer,West,Office Supplies,Binders,5,270,0.1,1215,291
+ORD-00956,24-12-2025,CUST-195,Home Office,West,Technology,Copiers,2,25379,0.2,40606,6771
+ORD-00957,29-03-2024,CUST-001,Consumer,West,Technology,Phones,3,17174,0.2,41218,4391
+ORD-00958,16-11-2024,CUST-067,Consumer,South,Technology,Copiers,7,26395,0.1,166288,38292
+ORD-00959,29-10-2025,CUST-184,Consumer,West,Office Supplies,Storage,5,1057,0.3,3699,-228
+ORD-00960,29-08-2024,CUST-195,Consumer,East,Technology,Phones,2,13642,0,27284,6937
+ORD-00961,01-09-2025,CUST-156,Consumer,East,Furniture,Tables,3,9881,0.2,23714,-1561
+ORD-00962,02-11-2024,CUST-069,Consumer,West,Technology,Phones,6,17235,0.2,82728,6344
+ORD-00963,21-12-2025,CUST-073,Consumer,South,Office Supplies,Binders,2,220,0,440,141
+ORD-00964,02-11-2025,CUST-242,Consumer,South,Furniture,Tables,1,7921,0,7921,649
+ORD-00965,11-09-2024,CUST-113,Corporate,West,Office Supplies,Storage,6,1295,0,7770,1000
+ORD-00966,19-08-2025,CUST-116,Consumer,South,Technology,Copiers,3,21733,0,65199,19939
+ORD-00967,05-10-2024,CUST-140,Consumer,North,Technology,Copiers,6,21764,0.1,117526,28560
+ORD-00968,10-04-2025,CUST-105,Consumer,South,Furniture,Bookcases,4,6700,0,26800,2217
+ORD-00969,23-05-2025,CUST-140,Home Office,West,Office Supplies,Storage,7,1308,0.2,7325,72
+ORD-00970,01-10-2025,CUST-111,Corporate,West,Furniture,Chairs,4,5015,0,20060,4230
+ORD-00971,25-01-2024,CUST-200,Home Office,North,Furniture,Bookcases,7,6271,0,43897,5984
+ORD-00972,10-07-2024,CUST-223,Home Office,East,Technology,Phones,6,14201,0,85206,16114
+ORD-00973,04-07-2025,CUST-231,Consumer,East,Technology,Accessories,2,1683,0,3366,928
+ORD-00974,03-03-2025,CUST-144,Corporate,East,Technology,Accessories,7,1409,0.4,5918,-95
+ORD-00975,29-12-2024,CUST-114,Consumer,West,Furniture,Tables,6,8394,0,50364,2628
+ORD-00976,24-02-2024,CUST-176,Home Office,West,Furniture,Bookcases,1,6696,0,6696,860
+ORD-00977,12-10-2024,CUST-203,Consumer,South,Furniture,Chairs,1,4744,0,4744,923
+ORD-00978,23-10-2025,CUST-144,Consumer,South,Technology,Copiers,2,27968,0,55936,15487
+ORD-00979,31-01-2024,CUST-174,Home Office,East,Technology,Phones,1,13452,0.1,12107,1277
+ORD-00980,08-11-2024,CUST-183,Home Office,East,Technology,Copiers,3,28392,0.2,68141,16725
+ORD-00981,03-12-2025,CUST-172,Home Office,East,Technology,Copiers,7,25846,0,180922,54799
+ORD-00982,20-02-2024,CUST-182,Consumer,North,Office Supplies,Paper,4,420,0.1,1512,567
+ORD-00983,02-08-2025,CUST-046,Consumer,North,Technology,Accessories,1,1686,0.1,1517,298
+ORD-00984,08-08-2024,CUST-127,Consumer,West,Technology,Copiers,4,24106,0.3,67497,8598
+ORD-00985,23-10-2025,CUST-152,Consumer,North,Technology,Copiers,2,26647,0.1,47965,11072
+ORD-00986,31-07-2025,CUST-001,Consumer,East,Technology,Copiers,6,26053,0,156318,51316
+ORD-00987,03-11-2025,CUST-208,Consumer,West,Technology,Copiers,1,27158,0.2,21726,4796
+ORD-00988,06-07-2024,CUST-153,Corporate,North,Furniture,Bookcases,6,6714,0.3,28199,-3132
+ORD-00989,31-01-2025,CUST-027,Consumer,South,Furniture,Bookcases,4,6324,0.1,22766,670
+ORD-00990,26-08-2025,CUST-198,Corporate,South,Office Supplies,Binders,1,218,0.4,131,11
+ORD-00991,30-07-2024,CUST-178,Home Office,East,Technology,Phones,5,13574,0.3,47509,-185
+ORD-00992,18-07-2024,CUST-186,Corporate,South,Technology,Accessories,4,1704,0,6816,1603
+ORD-00993,27-01-2024,CUST-099,Consumer,East,Furniture,Tables,6,10265,0.2,49272,-1464
+ORD-00994,10-12-2025,CUST-208,Consumer,South,Technology,Phones,5,17103,0.1,76964,11783
+ORD-00995,02-07-2025,CUST-106,Consumer,North,Technology,Accessories,6,1292,0.1,6977,1232
+ORD-00996,05-05-2025,CUST-147,Corporate,North,Technology,Copiers,4,24118,0.1,86825,21391
+ORD-00997,29-07-2025,CUST-001,Consumer,South,Technology,Accessories,1,1617,0.3,1132,38
+ORD-00998,31-01-2025,CUST-164,Consumer,South,Technology,Phones,1,16138,0.1,14524,1353
+ORD-00999,19-12-2024,CUST-178,Home Office,West,Office Supplies,Storage,4,1051,0.1,3784,241
+ORD-01000,05-12-2024,CUST-146,Corporate,North,Technology,Accessories,3,1549,0,4647,1166
+ORD-01001,08-05-2025,CUST-127,Home Office,East,Office Supplies,Binders,6,223,0,1338,363
+ORD-01002,25-06-2024,CUST-198,Consumer,East,Office Supplies,Paper,3,399,0.3,838,150
+ORD-01003,05-11-2025,CUST-172,Home Office,West,Technology,Copiers,7,23048,0.2,129069,19108
+ORD-01004,18-09-2025,CUST-066,Consumer,East,Office Supplies,Binders,2,216,0,432,135
+ORD-01005,13-10-2024,CUST-240,Consumer,North,Furniture,Tables,3,7866,0.3,16519,-2957
+ORD-01006,16-03-2025,CUST-176,Home Office,East,Office Supplies,Storage,6,1348,0.3,5662,-512
+ORD-01007,09-05-2024,CUST-247,Home Office,South,Office Supplies,Binders,1,268,0.1,241,44
+ORD-01008,17-12-2025,CUST-243,Consumer,West,Technology,Accessories,3,1694,0,5082,1334
+ORD-01009,12-11-2025,CUST-226,Consumer,North,Office Supplies,Paper,6,396,0.1,2138,569
+ORD-01010,21-11-2025,CUST-185,Consumer,West,Technology,Accessories,5,1461,0,7305,1833
+ORD-01011,02-10-2024,CUST-153,Corporate,East,Furniture,Bookcases,6,5745,0,34470,5142
+ORD-01012,31-05-2024,CUST-036,Home Office,East,Office Supplies,Binders,4,259,0.1,932,270
+ORD-01013,03-07-2024,CUST-137,Consumer,North,Furniture,Bookcases,7,5733,0.3,28092,-3769
+ORD-01014,26-03-2024,CUST-188,Consumer,East,Furniture,Bookcases,7,6443,0,45101,4914
+ORD-01015,21-04-2024,CUST-133,Corporate,West,Technology,Accessories,7,1636,0.3,8016,323
+ORD-01016,09-03-2024,CUST-210,Corporate,East,Office Supplies,Binders,1,278,0.3,195,16
+ORD-01017,26-12-2025,CUST-024,Consumer,South,Technology,Phones,5,13843,0,69215,12223
+ORD-01018,12-03-2024,CUST-094,Corporate,North,Technology,Accessories,1,1512,0,1512,434
+ORD-01019,02-05-2024,CUST-128,Home Office,South,Furniture,Chairs,2,4127,0.2,6603,317
+ORD-01020,30-09-2025,CUST-111,Consumer,West,Furniture,Tables,3,7751,0.2,18602,-1515
+ORD-01021,18-03-2025,CUST-024,Corporate,South,Furniture,Chairs,5,4781,0,23905,4091
+ORD-01022,22-08-2025,CUST-030,Corporate,West,Furniture,Chairs,4,4566,0.2,14611,-545
+ORD-01023,01-05-2025,CUST-203,Corporate,West,Office Supplies,Binders,7,267,0.1,1682,366
+ORD-01024,02-11-2025,CUST-124,Home Office,West,Office Supplies,Binders,3,219,0.2,526,82
+ORD-01025,07-05-2025,CUST-007,Corporate,West,Office Supplies,Binders,5,287,0.2,1148,209
+ORD-01026,22-01-2025,CUST-003,Consumer,East,Furniture,Chairs,6,5167,0,31002,4462
+ORD-01027,04-07-2025,CUST-124,Consumer,East,Furniture,Chairs,7,4453,0,31171,4543
+ORD-01028,04-12-2024,CUST-034,Corporate,North,Furniture,Bookcases,2,6659,0,13318,1262
+ORD-01029,11-10-2024,CUST-176,Consumer,West,Technology,Copiers,6,23077,0.4,83077,5040
+ORD-01030,14-12-2024,CUST-196,Consumer,West,Technology,Phones,1,16069,0.3,11248,182
+ORD-01031,31-05-2024,CUST-051,Consumer,East,Technology,Accessories,4,1671,0.2,5347,719
+ORD-01032,08-09-2025,CUST-153,Corporate,West,Furniture,Tables,3,9850,0,29550,1521
+ORD-01033,11-08-2024,CUST-030,Home Office,West,Office Supplies,Paper,7,437,0.1,2753,914
+ORD-01034,18-05-2024,CUST-070,Corporate,East,Furniture,Bookcases,6,5933,0,35598,4442
+ORD-01035,30-07-2024,CUST-216,Home Office,West,Furniture,Chairs,7,4932,0,34524,4603
+ORD-01036,09-10-2025,CUST-138,Consumer,East,Office Supplies,Paper,6,423,0,2538,960
+ORD-01037,01-10-2024,CUST-215,Consumer,South,Office Supplies,Storage,3,1068,0.3,2243,-56
+ORD-01038,13-06-2025,CUST-051,Home Office,North,Furniture,Chairs,6,3979,0,23874,2791
+ORD-01039,17-10-2025,CUST-080,Consumer,East,Technology,Phones,1,16224,0.1,14602,2543
+ORD-01040,15-03-2024,CUST-124,Corporate,West,Office Supplies,Binders,4,259,0.4,622,12
+ORD-01041,14-08-2025,CUST-124,Corporate,South,Office Supplies,Paper,1,402,0.2,322,80
+ORD-01042,15-09-2024,CUST-249,Consumer,West,Office Supplies,Binders,6,281,0,1686,458
+ORD-01043,07-07-2024,CUST-025,Corporate,East,Technology,Phones,7,15718,0.3,77018,5055
+ORD-01044,16-06-2025,CUST-207,Consumer,West,Technology,Phones,5,14533,0.1,65398,6860
+ORD-01045,15-11-2025,CUST-210,Consumer,South,Office Supplies,Paper,6,390,0.1,2106,642
+ORD-01046,06-09-2024,CUST-140,Consumer,East,Furniture,Tables,2,9284,0.2,14854,-1056
+ORD-01047,08-03-2025,CUST-084,Consumer,North,Furniture,Bookcases,7,6468,0.3,31693,-2445
+ORD-01048,02-09-2024,CUST-132,Consumer,South,Technology,Copiers,4,25483,0.1,91739,21113
+ORD-01049,22-02-2025,CUST-067,Home Office,North,Office Supplies,Paper,5,401,0.1,1804,570
+ORD-01050,23-04-2025,CUST-197,Consumer,North,Furniture,Tables,6,9613,0.1,51910,-5496
+ORD-01051,13-04-2025,CUST-127,Home Office,North,Technology,Accessories,5,1592,0,7960,2004
+ORD-01052,25-04-2025,CUST-229,Corporate,East,Technology,Phones,3,16487,0.2,39569,2395
+ORD-01053,04-05-2024,CUST-157,Consumer,East,Technology,Accessories,5,1303,0,6515,1832
+ORD-01054,19-06-2025,CUST-129,Consumer,South,Office Supplies,Storage,5,1292,0,6460,1029
+ORD-01055,04-06-2025,CUST-177,Home Office,West,Furniture,Chairs,7,4519,0,31633,4567
+ORD-01056,11-06-2025,CUST-128,Corporate,East,Office Supplies,Storage,4,1047,0,4188,605
+ORD-01057,12-03-2024,CUST-221,Home Office,West,Technology,Accessories,4,1581,0,6324,1372
+ORD-01058,03-12-2024,CUST-038,Consumer,East,Office Supplies,Paper,4,426,0.1,1534,526
+ORD-01059,15-11-2024,CUST-244,Corporate,North,Technology,Phones,1,15106,0,15106,2460
+ORD-01060,23-03-2024,CUST-198,Corporate,West,Furniture,Bookcases,1,6529,0,6529,421
+ORD-01061,12-07-2024,CUST-210,Home Office,West,Office Supplies,Paper,1,376,0.3,263,51
+ORD-01062,30-11-2024,CUST-124,Consumer,East,Office Supplies,Paper,5,364,0.4,1092,199
+ORD-01063,28-07-2025,CUST-203,Home Office,East,Furniture,Tables,3,8597,0.1,23212,126
+ORD-01064,23-07-2024,CUST-072,Consumer,East,Office Supplies,Paper,7,389,0,2723,1157
+ORD-01065,01-10-2025,CUST-187,Home Office,East,Office Supplies,Paper,5,424,0,2120,758
+ORD-01066,14-02-2025,CUST-027,Corporate,West,Technology,Phones,1,16555,0,16555,3500
+ORD-01067,11-08-2025,CUST-072,Corporate,East,Office Supplies,Storage,1,1280,,1280,129
+ORD-01068,17-12-2024,CUST-115,Consumer,North,Technology,Copiers,3,22555,0.4,40599,2710
+ORD-01069,31-12-2024,CUST-077,Home Office,North,Technology,Phones,7,14398,0.2,80629,5362
+ORD-01070,21-04-2025,CUST-097,Consumer,North,Furniture,Chairs,1,4039,0,4039,686
+ORD-01071,24-11-2025,CUST-199,Consumer,South,Office Supplies,Paper,2,422,0.4,506,75
+ORD-01072,27-12-2024,CUST-060,Corporate,South,Furniture,Tables,1,8320,0,8320,315
+ORD-01073,28-01-2025,CUST-182,Corporate,West,Office Supplies,Paper,3,403,0,1209,491
+ORD-01074,06-04-2025,CUST-015,Consumer,South,Technology,Accessories,7,1631,0,11417,3447
+ORD-01075,24-07-2025,CUST-188,Corporate,South,Technology,Accessories,5,1577,0,7885,1833
+ORD-01076,10-03-2024,CUST-195,Consumer,South,Furniture,Tables,4,8456,0.3,23677,-4145
+ORD-01077,15-01-2025,CUST-102,Corporate,East,Office Supplies,Paper,2,380,0,760,300
+ORD-01078,22-12-2024,CUST-179,Corporate,East,Furniture,Tables,3,9414,0.2,22594,-1580
+ORD-01079,21-11-2025,CUST-225,Corporate,East,Technology,Phones,4,15223,0,60892,10721
+ORD-01080,28-12-2024,CUST-198,Home Office,West,Office Supplies,Binders,2,220,0.3,308,42
+ORD-01081,15-12-2024,CUST-098,Corporate,West,Office Supplies,Storage,5,1335,0.1,6008,278
+ORD-01082,12-12-2025,CUST-124,Consumer,West,Office Supplies,Storage,7,1205,0.1,7592,394
+ORD-01083,05-12-2024,CUST-193,Corporate,West,Office Supplies,Storage,2,1190,0,2380,278
+ORD-01084,09-06-2024,CUST-067,Consumer,South,Technology,Copiers,2,22738,0.3,31833,5224
+ORD-01085,07-07-2024,CUST-198,Consumer,East,Furniture,Tables,1,8668,0.1,7801,7
+ORD-01086,30-03-2024,CUST-080,Corporate,South,Office Supplies,Binders,6,237,0,1422,374
+ORD-01087,01-01-2024,CUST-198,Consumer,West,Office Supplies,Binders,4,233,0.3,652,55
+ORD-01088,26-11-2024,CUST-019,Consumer,North,Office Supplies,Storage,2,1224,0,2448,304
+ORD-01089,18-08-2025,CUST-007,Home Office,North,Technology,Copiers,2,24717,0,49434,13155
+ORD-01090,21-07-2025,CUST-249,Consumer,North,Furniture,Tables,1,10051,,9046,-424
+ORD-01091,01-02-2024,CUST-210,Consumer,East,Technology,Accessories,4,1699,0,6796,1829
+ORD-01092,09-03-2025,CUST-214,Consumer,West,Technology,Accessories,5,1374,0.1,6183,1302
+ORD-01093,19-05-2024,CUST-239,Consumer,North,Office Supplies,Binders,2,220,0,440,127
+ORD-01094,01-12-2025,CUST-113,Corporate,East,Technology,Phones,1,16284,0,16284,3075
+ORD-01095,29-05-2024,CUST-067,Corporate,South,Furniture,Bookcases,4,6891,0,27564,2912
+ORD-01096,27-04-2025,CUST-027,Corporate,West,Furniture,Chairs,5,4991,0,24955,4194
+ORD-01097,28-09-2024,CUST-128,Consumer,North,Office Supplies,Binders,3,214,0.4,385,30
+ORD-01098,09-05-2025,CUST-050,Corporate,North,Office Supplies,Paper,2,370,0.1,666,161
+ORD-01099,16-11-2024,CUST-232,Consumer,East,Furniture,Chairs,2,3884,0.1,6991,579
+ORD-01100,10-08-2025,CUST-001,Corporate,East,Technology,Phones,6,16444,0,98664,19292
+ORD-01101,18-07-2024,CUST-027,Corporate,West,Technology,Accessories,7,1537,0.2,8607,1013
+ORD-01102,13-11-2025,CUST-058,Consumer,East,Technology,Accessories,6,1506,0,9036,2269
+ORD-01103,31-12-2024,CUST-042,Corporate,West,Office Supplies,Storage,4,1220,0,4880,696
+ORD-01104,07-08-2025,CUST-051,Corporate,South,Furniture,Tables,6,8332,0.2,39994,-2303
+ORD-01105,13-10-2025,CUST-168,Consumer,South,Furniture,Bookcases,3,6183,0.1,16694,1423
+ORD-01106,31-12-2025,CUST-079,Corporate,West,Furniture,Tables,1,7733,0.2,6186,-162
+ORD-01107,13-07-2024,CUST-155,Corporate,North,Furniture,Bookcases,3,6263,0.3,13152,-1099
+ORD-01108,31-08-2024,CUST-217,Consumer,West,Office Supplies,Storage,5,1284,0.3,4494,-296
+ORD-01109,03-08-2024,CUST-153,Consumer,North,Office Supplies,Storage,5,1262,0,6310,218
+ORD-01110,12-08-2024,CUST-172,Corporate,East,Furniture,Chairs,7,4273,0,29911,4194
+ORD-01111,20-03-2025,CUST-092,Home Office,North,Technology,Copiers,7,27447,0,192129,49839
+ORD-01112,28-12-2025,CUST-032,Corporate,East,Furniture,Bookcases,2,6388,0.2,10221,-137
+ORD-01113,26-12-2025,CUST-077,Corporate,West,Furniture,Tables,1,7996,0.3,5597,-646
+ORD-01114,26-01-2025,CUST-241,Corporate,North,Furniture,Bookcases,2,5451,0.4,6541,-779
+ORD-01115,07-05-2025,CUST-156,Consumer,North,Furniture,Tables,7,9370,,65590,6684
+ORD-01116,19-10-2025,CUST-065,Consumer,South,Technology,Accessories,6,1405,0.3,5901,408
+ORD-01117,27-11-2025,CUST-117,Consumer,South,Office Supplies,Storage,1,1063,0.1,957,123
+ORD-01118,27-06-2024,CUST-202,Home Office,South,Technology,Copiers,2,22412,0.3,31377,3984
+ORD-01119,28-01-2025,CUST-172,Corporate,West,Office Supplies,Paper,4,360,0.1,1296,364
+ORD-01120,03-10-2025,CUST-143,Home Office,North,Technology,Accessories,5,1490,0,7450,1737
+ORD-01121,12-09-2024,CUST-215,Consumer,East,Furniture,Chairs,7,4645,0,32515,4514
+ORD-01122,30-11-2024,CUST-172,Consumer,East,Furniture,Chairs,6,4063,0.4,14627,-1057
+ORD-01123,24-12-2025,CUST-163,Corporate,South,Furniture,Bookcases,2,6382,0,12764,914
+ORD-01124,24-12-2025,CUST-040,Consumer,South,Furniture,Bookcases,1,5606,0,5606,510
+ORD-01125,13-11-2025,CUST-024,Consumer,West,Office Supplies,Binders,5,236,0,1180,348
+ORD-01126,09-09-2025,CUST-241,Corporate,East,Office Supplies,Binders,4,229,0,916,262
+ORD-01127,17-08-2024,CUST-153,Corporate,West,Office Supplies,Binders,7,271,0.4,1138,96
+ORD-01128,25-09-2024,CUST-106,Corporate,South,Technology,Copiers,5,28449,0,142245,45410
+ORD-01129,15-02-2025,CUST-152,Consumer,East,Technology,Copiers,4,24944,0,99776,33425
+ORD-01130,01-03-2025,CUST-011,Consumer,West,Technology,Copiers,3,21565,0.2,51756,8802
+ORD-01131,05-01-2025,CUST-199,Consumer,West,Technology,Phones,1,13923,0.1,12531,1956
+ORD-01132,06-05-2025,CUST-049,Consumer,West,Office Supplies,Paper,7,359,0,2513,852
+ORD-01133,14-11-2024,CUST-198,Consumer,South,Office Supplies,Binders,6,276,0,1656,428
+ORD-01134,02-08-2025,CUST-134,Consumer,West,Office Supplies,Paper,2,350,0,700,241
+ORD-01135,03-10-2024,CUST-065,Home Office,West,Technology,Copiers,5,28499,0,142495,42788
+ORD-01136,01-10-2024,CUST-006,Consumer,West,Furniture,Chairs,3,4619,0,13857,2578
+ORD-01137,27-04-2024,CUST-198,Consumer,East,Office Supplies,Paper,4,402,0,1608,582
+ORD-01138,15-06-2024,CUST-037,Consumer,West,Technology,Phones,6,16563,0.2,79502,3633
+ORD-01139,14-10-2025,CUST-008,Corporate,East,Office Supplies,Paper,6,343,0.3,1441,279
+ORD-01140,03-12-2024,CUST-185,Consumer,West,Technology,Accessories,2,1625,0.3,2275,198
+ORD-01141,16-07-2024,CUST-085,Consumer,West,Office Supplies,Binders,3,221,0,663,189
+ORD-01142,10-08-2025,CUST-098,Consumer,West,Technology,Phones,6,16534,0,99204,16269
+ORD-01143,22-02-2025,CUST-058,Consumer,West,Office Supplies,Storage,7,1211,0.4,5086,-816
+ORD-01144,21-01-2024,CUST-209,Corporate,North,Office Supplies,Binders,1,217,0.2,174,28
+ORD-01145,21-09-2024,CUST-069,Consumer,South,Furniture,Bookcases,6,6600,0.1,35640,2685
+ORD-01146,06-06-2024,CUST-047,Consumer,South,Technology,Accessories,4,1287,0,5148,1301
+ORD-01147,21-05-2025,CUST-072,Corporate,West,Technology,Accessories,5,1337,0,6685,1523
+ORD-01148,22-08-2024,CUST-044,Consumer,West,Office Supplies,Paper,1,436,0.1,392,140
+ORD-01149,04-03-2024,CUST-076,Corporate,West,Office Supplies,Paper,5,396,0.1,1782,539
+ORD-01150,24-02-2024,CUST-018,Consumer,West,Office Supplies,Binders,5,279,0,1395,478
+ORD-01151,19-03-2025,CUST-032,Corporate,East,Technology,Phones,5,15609,0.4,46827,-838
+ORD-01152,22-01-2024,CUST-106,Consumer,North,Technology,Accessories,6,1556,0.1,8402,1610
+ORD-01153,13-10-2025,CUST-213,Consumer,East,Technology,Phones,7,14065,0.1,88610,6650
+ORD-01154,20-05-2024,CUST-010,Consumer,West,Office Supplies,Storage,6,1068,0,6408,1209
+ORD-01155,10-04-2025,CUST-047,Home Office,East,Furniture,Bookcases,6,6830,0.2,32784,-275
+ORD-01156,02-12-2024,CUST-223,Consumer,West,Technology,Copiers,7,22036,0.2,123402,21013
+ORD-01157,01-12-2024,CUST-217,Home Office,West,Furniture,Tables,5,9078,0,45390,4025
+ORD-01158,10-03-2024,CUST-172,Home Office,South,Office Supplies,Binders,5,233,0.1,1048,274
+ORD-01159,12-09-2025,CUST-055,Consumer,West,Technology,Phones,4,13939,0.2,44605,4431
+ORD-01160,07-11-2025,CUST-108,Consumer,East,Technology,Phones,6,15426,0.3,64789,-1287
+ORD-01161,11-01-2024,CUST-047,Consumer,East,Technology,Copiers,1,27235,0,27235,8431
+ORD-01162,07-06-2024,CUST-027,Home Office,South,Technology,Accessories,4,1625,0.3,4550,157
+ORD-01163,12-11-2025,CUST-094,Corporate,South,Office Supplies,Binders,3,278,0.1,751,195
+ORD-01164,18-02-2025,CUST-149,Corporate,North,Technology,Accessories,7,1407,0,9849,2455
+ORD-01165,16-05-2024,CUST-090,Consumer,East,Technology,Accessories,1,1485,0,1485,384
+ORD-01166,26-06-2024,CUST-153,Home Office,North,Furniture,Chairs,5,3838,0,19190,2794
+ORD-01167,24-05-2025,CUST-068,Consumer,East,Furniture,Chairs,2,4833,0,9666,1377
+ORD-01168,14-07-2025,CUST-084,Consumer,East,Technology,Phones,7,14111,0.1,88899,8352
+ORD-01169,04-04-2025,CUST-195,Consumer,East,Office Supplies,Storage,6,1222,0.2,5866,139
+ORD-01170,07-12-2025,CUST-213,Consumer,West,Office Supplies,Storage,2,1081,0,2162,356
+ORD-01171,28-12-2024,CUST-077,Home Office,East,Technology,Copiers,7,27395,0.4,115059,4982
+ORD-01172,10-09-2024,CUST-147,Corporate,North,Technology,Copiers,4,27380,0,109520,34675
+ORD-01173,19-12-2024,CUST-066,Consumer,West,Technology,Phones,7,16699,0.1,105204,13989
+ORD-01174,19-10-2024,CUST-008,Consumer,West,Furniture,Tables,6,7774,0.4,27986,-5031
+ORD-01175,13-07-2024,CUST-182,Corporate,East,Furniture,Chairs,1,5165,0.3,3615,-274
+ORD-01176,15-02-2024,CUST-035,Corporate,West,Technology,Phones,2,13865,0.1,24957,2020
+ORD-01177,14-10-2024,CUST-110,Consumer,North,Furniture,Bookcases,3,5657,0.2,13577,-590
+ORD-01178,03-07-2025,CUST-124,Consumer,West,Furniture,Tables,2,8323,0,16646,-69
+ORD-01179,19-01-2024,CUST-038,Corporate,North,Furniture,Bookcases,1,5582,0,5582,794
+ORD-01180,29-11-2024,CUST-020,Home Office,East,Furniture,Chairs,7,4571,0,31997,5153
+ORD-01181,11-05-2025,CUST-085,Corporate,North,Technology,Copiers,7,23049,0,161343,48258
+ORD-01182,13-04-2025,CUST-239,Consumer,West,Office Supplies,Storage,4,1162,0,4648,252
+ORD-01183,24-08-2025,CUST-155,Corporate,South,Office Supplies,Paper,2,419,0,838,273
+ORD-01184,18-09-2025,CUST-094,Consumer,South,Technology,Accessories,2,1651,0.3,2311,162
+ORD-01185,04-07-2025,CUST-007,Home Office,North,Technology,Phones,7,15867,0.3,77748,4596
+ORD-01186,06-04-2024,CUST-153,Consumer,West,Furniture,Bookcases,3,6170,0.3,12957,-1308
+ORD-01187,18-12-2024,CUST-019,Consumer,South,Furniture,Tables,1,8049,0.2,6439,-219
+ORD-01188,07-04-2025,CUST-137,Consumer,East,Technology,Copiers,3,27371,0,82113,23452
+ORD-01189,30-07-2024,CUST-184,Consumer,South,Technology,Copiers,4,21530,0,86120,25979
+ORD-01190,11-02-2024,CUST-109,Consumer,West,Furniture,Chairs,5,4182,0.2,16728,1111
+ORD-01191,12-07-2024,CUST-069,Corporate,South,Technology,Phones,3,13007,0.1,35119,3850
+ORD-01192,08-12-2024,CUST-007,Corporate,West,Furniture,Bookcases,7,6301,0,44107,3498
+ORD-01193,17-11-2024,CUST-005,Home Office,South,Furniture,Tables,5,8645,0.1,38902,1655
+ORD-01194,06-06-2024,CUST-111,Consumer,North,Office Supplies,Paper,7,418,0.1,2633,846
+ORD-01195,27-09-2025,CUST-215,Consumer,South,Technology,Accessories,3,1431,0,4293,1214
+ORD-01196,23-11-2025,CUST-057,Consumer,North,Technology,Copiers,5,24668,0,123340,34466
+ORD-01197,25-06-2024,CUST-148,Consumer,East,Office Supplies,Paper,3,395,0,1185,500
+ORD-01198,25-11-2025,CUST-172,Consumer,South,Office Supplies,Storage,5,1036,0.1,4662,318
+ORD-01199,18-01-2024,CUST-011,Home Office,West,Office Supplies,Binders,6,245,0.4,882,64
+ORD-01200,23-11-2025,CUST-030,Home Office,East,Technology,Copiers,3,26058,0.1,70357,17164
+ORD-01201,06-12-2025,CUST-081,Consumer,South,Office Supplies,Binders,7,253,0.2,1417,234
+ORD-01202,12-01-2024,CUST-172,Corporate,East,Technology,Accessories,7,1309,0.3,6414,449
+ORD-01203,13-08-2025,CUST-113,Corporate,North,Office Supplies,Storage,7,1261,0,8827,942
+ORD-01204,16-12-2025,CUST-181,Consumer,North,Office Supplies,Paper,2,377,0.2,603,174
+ORD-01205,13-11-2025,CUST-210,Corporate,South,Technology,Copiers,6,21358,0.1,115333,26977
+ORD-01206,16-12-2025,CUST-186,Consumer,North,Office Supplies,Storage,1,1076,0.1,968,15
+ORD-01207,18-02-2025,CUST-247,Consumer,North,Technology,Accessories,1,1499,0,1499,299
+ORD-01208,15-03-2024,CUST-185,Home Office,West,Office Supplies,Paper,7,377,0.3,1847,274
+ORD-01209,13-10-2025,CUST-207,Corporate,East,Furniture,Bookcases,2,6350,0.4,7620,-926
+ORD-01210,16-04-2025,CUST-201,Consumer,West,Office Supplies,Storage,7,1107,0,7749,662
+ORD-01211,17-04-2025,CUST-180,Consumer,South,Technology,Copiers,4,27046,0,108184,33429
+ORD-01212,19-11-2024,CUST-198,Home Office,West,Office Supplies,Binders,3,234,0,702,213
+ORD-01213,10-03-2025,CUST-232,Consumer,South,Technology,Accessories,1,1554,0.2,1243,159
+ORD-01214,18-05-2024,CUST-124,Home Office,North,Office Supplies,Binders,5,272,0.1,1224,310
+ORD-01215,26-07-2025,CUST-161,Home Office,West,Furniture,Chairs,6,4346,0,26076,4035
+ORD-01216,13-03-2024,CUST-130,Consumer,North,Furniture,Tables,4,7776,0.3,21773,-4383
+ORD-01217,18-07-2025,CUST-206,Corporate,South,Technology,Accessories,6,1516,0,9096,2186
+ORD-01218,13-10-2025,CUST-111,Corporate,West,Office Supplies,Paper,3,459,0.1,1239,412
+ORD-01219,17-12-2024,CUST-199,Corporate,East,Office Supplies,Binders,4,285,0,1140,398
+ORD-01220,10-01-2025,CUST-197,Consumer,East,Technology,Phones,3,13745,0.1,37112,6331
+ORD-01221,18-09-2024,CUST-240,Consumer,South,Technology,Copiers,5,26918,0.1,121131,24118
+ORD-01222,15-12-2025,CUST-059,Consumer,North,Technology,Accessories,1,1430,0,1430,342
+ORD-01223,20-07-2025,CUST-177,Corporate,West,Office Supplies,Storage,4,1078,0,4312,315
+ORD-01224,25-10-2024,CUST-186,Corporate,North,Technology,Copiers,4,26244,0.3,73483,12169
+ORD-01225,04-06-2024,CUST-233,Corporate,South,Technology,Phones,4,15004,0.1,54014,8123
+ORD-01226,09-07-2024,CUST-223,Corporate,South,Office Supplies,Storage,4,1214,0.3,3399,-168
+ORD-01227,12-12-2024,CUST-148,Consumer,West,Furniture,Chairs,5,4942,0.1,22239,2112
+ORD-01228,01-12-2025,CUST-149,Consumer,West,Office Supplies,Storage,4,1141,0.2,3651,151
+ORD-01229,21-07-2025,CUST-034,Corporate,East,Furniture,Tables,2,9451,0,18902,1821
+ORD-01230,06-07-2024,CUST-244,Corporate,West,Furniture,Bookcases,2,5759,0.2,9214,136
+ORD-01231,19-10-2025,CUST-060,Corporate,North,Office Supplies,Binders,5,216,0,1080,339
+ORD-01232,30-10-2024,CUST-179,Consumer,West,Office Supplies,Paper,7,385,0,2695,996
+ORD-01233,14-10-2025,CUST-196,Consumer,North,Office Supplies,Storage,6,1362,0,8172,1169
+ORD-01234,27-07-2024,CUST-114,Home Office,South,Office Supplies,Paper,5,398,0,1990,805
+ORD-01235,20-04-2025,CUST-047,Consumer,North,Technology,Copiers,7,22062,0.4,92660,5030
+ORD-01236,24-11-2025,CUST-039,Consumer,West,Technology,Phones,7,15845,0.4,66549,-4694
+ORD-01237,08-08-2024,CUST-208,Corporate,West,Furniture,Chairs,4,5126,0.2,16403,1050
+ORD-01238,19-06-2025,CUST-128,Corporate,East,Furniture,Tables,1,10101,0,10101,1110
+ORD-01239,25-12-2025,CUST-019,Home Office,North,Furniture,Bookcases,5,6130,0.3,21455,-2199
+ORD-01240,16-05-2024,CUST-178,Home Office,South,Furniture,Chairs,5,4333,0.2,17332,383
+ORD-01241,24-03-2024,CUST-059,Corporate,East,Technology,Accessories,2,1536,0,3072,800
+ORD-01242,04-06-2025,CUST-212,Consumer,South,Office Supplies,Paper,6,438,0.1,2365,791
+ORD-01243,07-10-2024,CUST-072,Consumer,North,Office Supplies,Storage,7,1330,0.2,7448,-117
+ORD-01244,09-03-2024,CUST-043,Home Office,East,Technology,Accessories,3,1643,0,4929,1511
+ORD-01245,18-12-2024,CUST-019,Consumer,East,Office Supplies,Binders,4,247,0.1,889,225
+ORD-01246,06-08-2025,CUST-129,Home Office,West,Office Supplies,Storage,2,1063,0.2,1701,27
+ORD-01247,30-08-2024,CUST-117,Corporate,East,Office Supplies,Binders,2,255,0,510,180
+ORD-01248,04-10-2024,CUST-184,Consumer,South,Technology,Accessories,2,1345,0,2690,636
+ORD-01249,11-10-2025,CUST-122,Consumer,East,Furniture,Bookcases,3,5210,0.1,14067,525
+ORD-01250,20-01-2025,CUST-084,Corporate,North,Office Supplies,Storage,2,1200,0.2,1920,-72
+ORD-01251,09-10-2025,CUST-060,Consumer,East,Furniture,Bookcases,2,6280,0.4,7536,-1094
+ORD-01252,03-12-2024,CUST-066,Consumer,West,Technology,Phones,4,16594,0.3,46463,-2075
+ORD-01253,07-12-2025,CUST-230,Corporate,North,Furniture,Chairs,5,4882,0.1,21969,2470
+ORD-01254,17-05-2025,CUST-034,Consumer,South,Office Supplies,Binders,3,277,0.1,748,189
+ORD-01255,17-04-2024,CUST-247,Consumer,West,Technology,Copiers,4,26951,0.1,97024,22479
+ORD-01256,03-11-2025,CUST-079,Corporate,East,Furniture,Chairs,2,4774,0.1,8593,747
+ORD-01257,26-12-2024,CUST-019,Corporate,East,Furniture,Tables,5,7677,0,38385,3180
+ORD-01258,09-05-2024,CUST-059,Consumer,West,Technology,Accessories,5,1557,0.2,6228,597
+ORD-01259,18-05-2024,CUST-010,Home Office,East,Technology,Accessories,7,1329,0.2,7442,1013
+ORD-01260,15-06-2025,CUST-195,Home Office,North,Office Supplies,Binders,1,217,0.1,195,51
+ORD-01261,16-02-2024,CUST-129,Consumer,West,Furniture,Bookcases,6,5382,0.3,22604,-3017
+ORD-01262,31-08-2024,CUST-083,Consumer,West,Office Supplies,Storage,3,1316,0.2,3158,65
+ORD-01263,08-05-2024,CUST-171,Corporate,North,Technology,Accessories,1,1610,0,1610,322
+ORD-01264,30-11-2024,CUST-159,Consumer,North,Office Supplies,Binders,5,284,0,1420,421
+ORD-01265,17-11-2024,CUST-234,Home Office,West,Furniture,Bookcases,2,6862,0,13724,893
+ORD-01266,22-01-2025,CUST-240,Corporate,East,Furniture,Chairs,2,5031,0,10062,1941
+ORD-01267,26-08-2024,CUST-172,Consumer,South,Furniture,Chairs,7,4004,0.1,25225,1395
+ORD-01268,01-02-2024,CUST-199,Corporate,East,Technology,Phones,2,16703,0,33406,4359
+ORD-01269,17-04-2025,CUST-195,Corporate,West,Office Supplies,Storage,4,1322,0,5288,656
+ORD-01270,27-10-2024,CUST-125,Home Office,East,Furniture,Chairs,2,5001,0,10002,1376
+ORD-01271,17-05-2025,CUST-176,Consumer,North,Technology,Phones,1,13433,0.2,10746,160
+ORD-01272,11-04-2024,CUST-017,Home Office,North,Furniture,Chairs,1,3983,0.2,3186,146
+ORD-01273,14-01-2024,CUST-186,Consumer,East,Office Supplies,Storage,1,1353,0,1353,82
+ORD-01274,01-08-2024,CUST-240,Corporate,West,Office Supplies,Paper,4,361,0,1444,504
+ORD-01275,08-12-2024,CUST-019,Home Office,East,Office Supplies,Paper,4,384,0,1536,557
+ORD-01276,07-11-2024,CUST-202,Consumer,South,Office Supplies,Paper,1,395,0,395,160
+ORD-01277,17-09-2025,CUST-231,Consumer,West,Technology,Copiers,3,22183,,66549,22551
+ORD-01278,30-10-2024,CUST-051,Corporate,South,Office Supplies,Paper,2,342,0,684,283
+ORD-01279,30-01-2025,CUST-133,Home Office,East,Furniture,Chairs,4,5167,0,20668,3005
+ORD-01280,29-03-2025,CUST-230,Consumer,North,Office Supplies,Binders,7,278,0.4,1168,-15
+ORD-01281,22-01-2024,CUST-240,Consumer,West,Office Supplies,Paper,5,449,0.1,2020,670
+ORD-01282,15-01-2025,CUST-027,Corporate,West,Office Supplies,Paper,7,374,0.3,1833,447
+ORD-01283,10-10-2024,CUST-085,Consumer,West,Technology,Phones,2,13740,0,27480,5964
+ORD-01284,21-11-2024,CUST-174,Corporate,South,Office Supplies,Binders,2,244,0,488,153
+ORD-01285,04-04-2024,CUST-050,Consumer,East,Technology,Phones,6,14790,0.4,53244,-5095
+ORD-01286,28-08-2025,CUST-078,Consumer,North,Furniture,Chairs,3,3833,0,11499,1544
+ORD-01287,01-12-2025,CUST-005,Home Office,West,Office Supplies,Storage,6,1301,0.1,7025,829
+ORD-01288,22-01-2024,CUST-030,Consumer,North,Furniture,Bookcases,4,6894,0.4,16546,-3020
+ORD-01289,05-04-2025,CUST-143,Home Office,East,Furniture,Chairs,2,4539,0.1,8170,454
+ORD-01290,14-08-2025,CUST-167,Corporate,West,Technology,Copiers,6,24162,0,144972,47591
+ORD-01291,30-08-2024,CUST-166,Consumer,North,Furniture,Bookcases,4,5807,0.1,20905,566
+ORD-01292,01-09-2025,CUST-192,Consumer,South,Office Supplies,Binders,6,220,0,1320,349
+ORD-01293,02-05-2025,CUST-106,Consumer,North,Technology,Phones,4,13948,0,55792,12600
+ORD-01294,25-11-2025,CUST-064,Corporate,East,Furniture,Chairs,1,4503,0,4503,738
+ORD-01295,22-12-2025,CUST-002,Corporate,West,Office Supplies,Storage,5,1175,0.3,4112,-294
+ORD-01296,11-02-2024,CUST-045,Corporate,East,Technology,Accessories,1,1520,0.2,1216,116
+ORD-01297,02-12-2024,CUST-074,Consumer,West,Furniture,Bookcases,5,6628,0,33140,5350
+ORD-01298,15-02-2025,CUST-037,Consumer,North,Office Supplies,Paper,3,367,0,1101,418
+ORD-01299,13-05-2024,CUST-004,Consumer,South,Technology,Accessories,6,1287,0.2,6178,1062
+ORD-01300,05-10-2024,CUST-032,Corporate,West,Furniture,Chairs,7,3877,,18997,-61
+ORD-01301,25-12-2025,CUST-172,Consumer,West,Office Supplies,Paper,3,356,0,1068,389
+ORD-01302,16-01-2024,CUST-159,Consumer,South,Technology,Phones,7,15317,0,107219,17650
+ORD-01303,06-12-2024,CUST-232,Consumer,West,Office Supplies,Paper,1,437,0.3,306,74
+ORD-01304,09-10-2025,CUST-197,Consumer,West,Office Supplies,Storage,1,1339,0.3,937,-15
+ORD-01305,27-09-2024,CUST-146,Corporate,West,Technology,Copiers,7,26013,0.3,127464,8119
+ORD-01306,21-12-2024,CUST-027,Corporate,East,Office Supplies,Paper,5,388,0,1940,769
+ORD-01307,20-12-2025,CUST-144,Home Office,North,Furniture,Bookcases,4,5378,0,21512,2073
+ORD-01308,18-12-2024,CUST-011,Consumer,North,Furniture,Bookcases,2,5823,0,11646,804
+ORD-01309,01-05-2024,CUST-111,Corporate,East,Technology,Phones,3,14246,0,42738,8028
+ORD-01310,20-02-2024,CUST-098,Consumer,East,Office Supplies,Binders,5,278,0.3,973,77
+ORD-01311,03-12-2025,CUST-111,Corporate,South,Technology,Accessories,6,1494,0,8964,2116
+ORD-01312,15-08-2024,CUST-066,Corporate,South,Technology,Phones,7,13768,0.1,86738,8331
+ORD-01313,04-01-2025,CUST-172,Consumer,South,Office Supplies,Binders,3,234,0.3,491,52
+ORD-01314,26-03-2024,CUST-204,Corporate,East,Office Supplies,Binders,4,223,0.4,535,31
+ORD-01315,22-11-2024,CUST-189,Consumer,South,Office Supplies,Storage,2,1351,0.2,2162,-66
+ORD-01316,25-11-2025,CUST-158,Consumer,South,Furniture,Bookcases,1,5191,0.4,3115,-289
+ORD-01317,02-01-2025,CUST-135,Consumer,North,Office Supplies,Paper,4,342,0,1368,540
+ORD-01318,16-12-2025,CUST-006,Consumer,West,Technology,Copiers,5,22622,0,113110,40022
+ORD-01319,09-08-2024,CUST-179,Home Office,East,Technology,Accessories,1,1640,0,1640,402
+ORD-01320,04-01-2025,CUST-138,Corporate,North,Technology,Phones,3,15106,0.4,27191,-2079
+ORD-01321,19-10-2025,CUST-063,Corporate,East,Furniture,Tables,5,9340,0.3,32690,-2198
+ORD-01322,04-12-2024,CUST-080,Home Office,South,Furniture,Bookcases,6,5744,0,34464,2849
+ORD-01323,25-08-2024,CUST-232,Corporate,East,Technology,Accessories,7,1306,0,9142,2237
+ORD-01324,17-10-2025,CUST-157,Consumer,East,Office Supplies,Binders,3,277,0,831,267
+ORD-01325,05-11-2024,CUST-124,Consumer,East,Office Supplies,Binders,3,227,0,681,179
+ORD-01326,30-01-2025,CUST-156,Consumer,West,Furniture,Tables,7,7739,0.3,37921,-3741
+ORD-01327,19-12-2025,CUST-105,Home Office,North,Office Supplies,Paper,5,409,0,2045,813
+ORD-01328,13-06-2024,CUST-124,Home Office,South,Furniture,Chairs,2,3937,0.2,6299,429
+ORD-01329,11-09-2024,CUST-067,Corporate,North,Office Supplies,Paper,5,351,0.1,1580,548
+ORD-01330,31-01-2024,CUST-113,Consumer,East,Technology,Phones,2,16352,0,32704,7162
+ORD-01331,06-11-2024,CUST-172,Consumer,East,Technology,Accessories,4,1496,0,5984,1476
+ORD-01332,24-06-2024,CUST-007,Home Office,West,Office Supplies,Paper,3,369,0.4,664,76
+ORD-01333,09-06-2025,CUST-196,Consumer,North,Technology,Phones,7,14319,0.1,90210,16535
+ORD-01334,09-06-2024,CUST-067,Corporate,East,Office Supplies,Binders,1,267,0,267,68
+ORD-01335,05-06-2025,CUST-172,Consumer,South,Technology,Accessories,6,1305,0,7830,1622
+ORD-01336,13-08-2024,CUST-163,Consumer,South,Office Supplies,Storage,2,1062,0.3,1487,-64
+ORD-01337,16-10-2024,CUST-167,Corporate,West,Technology,Copiers,1,25872,0.3,18110,3056
+ORD-01338,12-10-2024,CUST-153,Home Office,North,Furniture,Bookcases,5,6193,0.3,21676,-1611
+ORD-01339,07-07-2025,CUST-240,Corporate,South,Office Supplies,Paper,5,457,0.1,2056,720
+ORD-01340,14-12-2024,CUST-128,Consumer,South,Technology,Phones,1,14435,0.3,10104,-605
+ORD-01341,20-10-2024,CUST-180,Consumer,West,Technology,Accessories,1,1304,0,1304,306
+ORD-01342,15-10-2025,CUST-176,Home Office,North,Furniture,Tables,1,9101,0.2,7281,-846
+ORD-01343,10-03-2025,CUST-054,Corporate,West,Furniture,Tables,3,9374,0,28122,2346
+ORD-01344,05-07-2024,CUST-067,Consumer,West,Technology,Copiers,1,22297,0.1,20067,3885
+ORD-01345,10-11-2025,CUST-109,Corporate,West,Furniture,Tables,5,9143,0.4,27429,-5989
+ORD-01346,09-10-2024,CUST-065,Consumer,South,Office Supplies,Storage,1,1091,0.4,655,-68
+ORD-01347,08-02-2024,CUST-092,Consumer,East,Office Supplies,Binders,6,276,0.1,1490,405
+ORD-01348,28-12-2024,CUST-099,Home Office,North,Office Supplies,Paper,7,440,0.1,2772,874
+ORD-01349,24-04-2024,CUST-153,Corporate,West,Office Supplies,Paper,6,392,0.3,1646,357
+ORD-01350,24-07-2024,CUST-050,Consumer,East,Technology,Copiers,7,28501,0.4,119704,9114
+ORD-01351,31-07-2025,CUST-198,Consumer,North,Furniture,Chairs,7,5148,0.2,28829,679
+ORD-01352,30-04-2024,CUST-113,Home Office,South,Technology,Phones,1,13332,0,13332,1962
+ORD-01353,15-09-2025,CUST-176,Corporate,West,Technology,Accessories,3,1440,0,4320,1153
+ORD-01354,29-11-2025,CUST-018,Corporate,West,Office Supplies,Storage,6,1236,0.3,5191,-216
+ORD-01355,10-04-2025,CUST-124,Consumer,East,Furniture,Tables,3,7879,0.2,18910,-627
+ORD-01356,02-07-2025,CUST-005,Home Office,East,Technology,Accessories,6,1447,0.2,6946,968
+ORD-01357,05-07-2025,CUST-172,Home Office,West,Technology,Phones,6,13925,0.2,66840,1667
+ORD-01358,28-12-2025,CUST-084,Corporate,West,Furniture,Tables,7,10221,0,71547,5775
+ORD-01359,08-10-2024,CUST-238,Consumer,West,Furniture,Chairs,3,4381,0,13143,1971
+ORD-01360,26-05-2024,CUST-078,Corporate,South,Technology,Phones,3,16182,0.3,33982,-492
+ORD-01361,19-01-2025,CUST-144,Home Office,East,Furniture,Chairs,1,4347,0,4347,614
+ORD-01362,02-02-2025,CUST-060,Corporate,West,Furniture,Chairs,2,4003,0.2,6405,60
+ORD-01363,07-06-2024,CUST-156,Home Office,North,Technology,Phones,2,16634,0.2,26614,2307
+ORD-01364,15-04-2025,CUST-123,Corporate,South,Furniture,Tables,4,7651,0.3,21423,-3482
+ORD-01365,14-01-2024,CUST-092,Consumer,North,Technology,Accessories,3,1300,0,3900,859
+ORD-01366,24-11-2025,CUST-044,Consumer,South,Furniture,Chairs,6,4317,0.2,20722,417
+ORD-01367,14-08-2024,CUST-025,Corporate,West,Furniture,Bookcases,6,6336,0,38016,5642
+ORD-01368,08-02-2024,CUST-025,Consumer,North,Technology,Accessories,6,1429,0,8574,2415
+ORD-01369,11-04-2024,CUST-250,Consumer,East,Office Supplies,Storage,1,1044,0,1044,74
+ORD-01370,26-07-2024,CUST-105,Corporate,North,Technology,Copiers,4,23634,0,94536,32193
+ORD-01371,21-08-2024,CUST-001,Consumer,West,Office Supplies,Binders,6,231,0.4,832,84
+ORD-01372,02-02-2024,CUST-239,Corporate,West,Technology,Phones,2,12774,0.3,17884,-630
+ORD-01373,25-08-2024,CUST-004,Consumer,East,Technology,Accessories,3,1516,0,4548,793
+ORD-01374,18-06-2024,CUST-107,Consumer,West,Technology,Phones,6,13275,0.3,55755,-121
+ORD-01375,30-10-2024,CUST-178,Consumer,North,Office Supplies,Binders,6,234,0.1,1264,346
+ORD-01376,03-11-2024,CUST-224,Corporate,West,Office Supplies,Storage,6,1251,0.2,6005,287
+ORD-01377,06-10-2024,CUST-177,Corporate,West,Office Supplies,Storage,4,1281,0.3,3587,-309
+ORD-01378,30-09-2024,CUST-122,Consumer,North,Office Supplies,Paper,3,372,0.1,1004,374
+ORD-01379,26-03-2024,CUST-244,Consumer,West,Technology,Accessories,3,1423,0,4269,782
+ORD-01380,25-01-2024,CUST-007,Consumer,North,Technology,Accessories,5,1386,0,6930,1656
+ORD-01381,26-06-2024,CUST-247,Corporate,East,Office Supplies,Storage,3,1364,0.1,3683,175
+ORD-01382,08-08-2025,CUST-206,Home Office,North,Furniture,Bookcases,3,5443,0.4,9797,-1033
+ORD-01383,27-12-2025,CUST-230,Corporate,West,Technology,Phones,2,13574,0.1,24433,3884
+ORD-01384,24-11-2025,CUST-060,Consumer,North,Office Supplies,Storage,4,1180,0,4720,702
+ORD-01385,04-01-2025,CUST-027,Corporate,North,Technology,Phones,2,13602,0,27204,3795
+ORD-01386,31-01-2025,CUST-171,Consumer,East,Furniture,Bookcases,4,5382,,15070,-816
+ORD-01387,20-09-2024,CUST-130,Consumer,West,Technology,Copiers,7,21969,0,153783,48483
+ORD-01388,21-08-2025,CUST-133,Consumer,South,Furniture,Bookcases,6,6252,0.2,30010,-2105
+ORD-01389,14-08-2025,CUST-228,Consumer,East,Office Supplies,Storage,4,1240,0.2,3968,-246
+ORD-01390,10-10-2025,CUST-156,Consumer,East,Office Supplies,Storage,7,1254,0,8778,1327
+ORD-01391,08-11-2025,CUST-073,Corporate,West,Furniture,Bookcases,7,6492,0,45444,4299
+ORD-01392,27-11-2024,CUST-101,Consumer,South,Technology,Accessories,4,1422,0,5688,1203
+ORD-01393,16-08-2025,CUST-027,Corporate,East,Office Supplies,Storage,6,1351,0,8106,922
+ORD-01394,15-09-2025,CUST-041,Home Office,West,Office Supplies,Paper,3,428,0.2,1027,278
+ORD-01395,16-09-2024,CUST-027,Corporate,South,Furniture,Tables,7,9823,0.3,48133,-5896
+ORD-01396,25-11-2025,CUST-198,Consumer,East,Technology,Copiers,3,26657,0,79971,20268
+ORD-01397,30-03-2024,CUST-176,Corporate,West,Technology,Copiers,2,23938,0.1,43088,12778
+ORD-01398,28-12-2025,CUST-134,Consumer,South,Technology,Copiers,1,23373,0,23373,7716
+ORD-01399,18-08-2025,CUST-094,Consumer,South,Furniture,Chairs,6,4395,0,26370,3690
+ORD-01400,29-03-2024,CUST-172,Consumer,South,Furniture,Bookcases,3,5275,0.2,12660,-365
+ORD-01401,21-05-2025,CUST-198,Home Office,West,Office Supplies,Binders,6,246,0.2,1181,225
+ORD-01402,03-02-2024,CUST-214,Corporate,West,Furniture,Bookcases,1,5178,0.2,4142,-223
+ORD-01403,19-08-2025,CUST-138,Home Office,East,Furniture,Bookcases,4,5107,0,20428,2241
+ORD-01404,09-09-2025,CUST-199,Corporate,East,Furniture,Bookcases,3,6777,0.1,18298,1
+ORD-01405,06-04-2025,CUST-128,Corporate,South,Furniture,Tables,4,9511,0,38044,2202
+ORD-01406,18-10-2025,CUST-124,Home Office,North,Furniture,Tables,2,9167,0.4,11000,-2366
+ORD-01407,02-04-2024,CUST-210,Home Office,North,Technology,Phones,1,14285,0.2,11428,302
+ORD-01408,23-08-2024,CUST-096,Consumer,North,Office Supplies,Binders,3,255,0.4,459,50
+ORD-01409,17-11-2024,CUST-100,Home Office,North,Furniture,Chairs,4,5029,0,20116,3053
+ORD-01410,11-02-2024,CUST-071,Home Office,East,Furniture,Bookcases,6,6274,0.1,33880,1566
+ORD-01411,04-12-2024,CUST-132,Consumer,North,Furniture,Chairs,4,4638,0.2,14842,-450
+ORD-01412,14-08-2024,CUST-138,Consumer,North,Technology,Copiers,2,24702,0,49404,13936
+ORD-01413,07-11-2024,CUST-170,Consumer,South,Furniture,Bookcases,2,5722,0.1,10300,555
+ORD-01414,22-11-2024,CUST-111,Corporate,South,Office Supplies,Binders,5,265,0.1,1192,293
+ORD-01415,31-10-2025,CUST-049,Consumer,North,Technology,Copiers,4,28607,0.4,68657,-317
+ORD-01416,18-08-2024,CUST-210,Consumer,North,Office Supplies,Binders,7,244,0,1708,523
+ORD-01417,07-11-2025,CUST-084,Corporate,South,Technology,Copiers,4,24192,0.4,58061,4122
+ORD-01418,23-11-2024,CUST-228,Home Office,East,Technology,Phones,4,14677,0,58708,12828
+ORD-01419,30-09-2024,CUST-045,Home Office,West,Office Supplies,Binders,1,244,0.1,220,48
+ORD-01420,02-01-2025,CUST-143,Corporate,West,Technology,Accessories,2,1721,0.1,3098,380
+ORD-01421,19-11-2024,CUST-134,Consumer,West,Office Supplies,Storage,6,1274,0,7644,689
+ORD-01422,08-08-2024,CUST-201,Consumer,East,Office Supplies,Storage,3,1149,0.4,2068,-316
+ORD-01423,03-01-2025,CUST-027,Corporate,West,Technology,Copiers,3,24036,0.3,50476,7173
+ORD-01424,17-05-2024,CUST-224,Consumer,East,Office Supplies,Paper,5,392,0.4,1176,69
+ORD-01425,14-10-2024,CUST-134,Corporate,East,Furniture,Bookcases,1,5166,0.4,3100,-476
+ORD-01426,05-03-2025,CUST-151,Home Office,South,Office Supplies,Binders,4,252,0.2,806,180
+ORD-01427,17-11-2024,CUST-128,Corporate,South,Office Supplies,Paper,3,437,0.1,1180,378
+ORD-01428,27-09-2025,CUST-007,Corporate,South,Office Supplies,Storage,2,1258,0.3,1761,-58
+ORD-01429,08-08-2024,CUST-127,Corporate,North,Furniture,Bookcases,3,5457,0,16371,831
+ORD-01430,16-12-2025,CUST-061,Home Office,West,Office Supplies,Binders,4,267,0.3,748,54
+ORD-01431,30-08-2025,CUST-084,Consumer,North,Technology,Accessories,2,1599,0.1,2878,671
+ORD-01432,15-12-2025,CUST-166,Consumer,West,Furniture,Tables,4,8359,0.2,26749,-1524
+ORD-01433,06-10-2025,CUST-127,Consumer,West,Furniture,Tables,6,9332,0,55992,3533
+ORD-01434,09-05-2024,CUST-020,Corporate,East,Technology,Copiers,2,25832,0,51664,13766
+ORD-01435,26-01-2025,CUST-015,Consumer,North,Furniture,Bookcases,7,6612,0,46284,4768
+ORD-01436,31-05-2024,CUST-038,Consumer,East,Furniture,Chairs,5,4009,0,20045,2318
+ORD-01437,23-09-2025,CUST-040,Corporate,South,Technology,Phones,6,13627,,81762,17628
+ORD-01438,21-03-2025,CUST-153,Consumer,West,Technology,Copiers,1,24895,0,24895,9506
+ORD-01439,13-08-2024,CUST-037,Corporate,West,Furniture,Bookcases,6,5179,0,31074,3559
+ORD-01440,25-11-2025,CUST-214,Consumer,West,Office Supplies,Storage,3,1170,0.1,3159,129
+ORD-01441,17-04-2024,CUST-047,Consumer,East,Office Supplies,Binders,5,272,0,1360,305
+ORD-01442,03-03-2025,CUST-019,Consumer,West,Technology,Accessories,6,1342,0.3,5636,110
+ORD-01443,11-07-2025,CUST-212,Consumer,West,Office Supplies,Storage,2,1186,0,2372,395
+ORD-01444,27-02-2024,CUST-068,Home Office,North,Technology,Phones,2,17204,0.1,30967,2760
+ORD-01445,02-04-2025,CUST-110,Home Office,South,Furniture,Tables,1,9016,0,9016,441
+ORD-01446,21-09-2025,CUST-240,Corporate,North,Furniture,Chairs,5,4498,0.1,20241,2220
+ORD-01447,06-03-2024,CUST-236,Corporate,East,Office Supplies,Storage,6,1221,0.1,6593,689
+ORD-01448,12-01-2025,CUST-177,Corporate,West,Office Supplies,Storage,3,1087,0.1,2935,159
+ORD-01449,09-08-2024,CUST-013,Home Office,East,Office Supplies,Paper,2,358,0,716,263
+ORD-01450,26-05-2025,CUST-153,Consumer,East,Furniture,Chairs,3,4739,0.1,12795,1179
+ORD-01451,20-04-2024,CUST-247,Consumer,West,Furniture,Bookcases,3,5812,0,17436,1415
+ORD-01452,29-11-2025,CUST-237,Corporate,North,Furniture,Chairs,7,4216,0.1,26561,1933
+ORD-01453,08-11-2025,CUST-023,Home Office,North,Furniture,Chairs,1,3867,0,3867,628
+ORD-01454,13-06-2024,CUST-100,Consumer,West,Furniture,Bookcases,3,6623,0.2,15895,-230
+ORD-01455,26-09-2024,CUST-075,Consumer,West,Technology,Copiers,5,21492,0,107460,39110
+ORD-01456,24-03-2025,CUST-027,Consumer,West,Furniture,Chairs,2,4837,0.2,7739,334
+ORD-01457,09-07-2025,CUST-172,Consumer,South,Office Supplies,Storage,7,1158,0,8106,1253
+ORD-01458,01-12-2024,CUST-064,Corporate,West,Technology,Accessories,7,1544,0,10808,2355
+ORD-01459,21-05-2024,CUST-084,Consumer,West,Furniture,Bookcases,3,5546,0,16638,1926
+ORD-01460,07-04-2024,CUST-019,Home Office,West,Technology,Accessories,6,1345,0,8070,1842
+ORD-01461,31-12-2025,CUST-127,Corporate,South,Office Supplies,Binders,6,253,0.1,1366,344
+ORD-01462,08-12-2024,CUST-032,Consumer,East,Furniture,Bookcases,5,6352,0.3,22232,-1319
+ORD-01463,27-10-2025,CUST-111,Corporate,West,Furniture,Chairs,2,4089,0.2,6542,206
+ORD-01464,22-12-2024,CUST-027,Corporate,West,Furniture,Chairs,1,4414,0,4414,981
+ORD-01465,21-11-2025,CUST-239,Consumer,East,Office Supplies,Binders,3,246,0,738,253
+ORD-01466,24-03-2024,CUST-027,Consumer,East,Furniture,Tables,1,8233,0.3,5763,-488
+ORD-01467,16-04-2024,CUST-133,Home Office,West,Technology,Copiers,3,25488,0,76464,24692
+ORD-01468,25-11-2025,CUST-042,Consumer,East,Technology,Phones,5,13407,0,67035,15613
+ORD-01469,04-12-2025,CUST-016,Consumer,South,Office Supplies,Paper,5,401,0.3,1404,220
+ORD-01470,20-09-2024,CUST-043,Consumer,North,Furniture,Chairs,2,3978,0,7956,1520
+ORD-01471,16-10-2024,CUST-009,Consumer,North,Office Supplies,Storage,1,1195,0,1195,108
+ORD-01472,06-12-2024,CUST-027,Corporate,West,Office Supplies,Paper,2,377,0,754,274
+ORD-01473,18-11-2024,CUST-126,Consumer,North,Technology,Accessories,4,1479,0.1,5324,1101
+ORD-01474,16-06-2024,CUST-167,Corporate,North,Furniture,Tables,6,8821,0,52926,5134
+ORD-01475,10-11-2025,CUST-019,Consumer,West,Office Supplies,Storage,3,1347,0.2,3233,-112
+ORD-01476,05-08-2024,CUST-114,Home Office,West,Furniture,Bookcases,3,5982,0,17946,1519
+ORD-01477,28-06-2025,CUST-150,Consumer,North,Technology,Accessories,4,1643,,6572,1662
+ORD-01478,06-03-2024,CUST-053,Home Office,South,Technology,Phones,1,13765,0,13765,2401
+ORD-01479,08-02-2024,CUST-093,Home Office,West,Furniture,Bookcases,2,5734,0.3,8028,-437
+ORD-01480,19-05-2025,CUST-015,Consumer,South,Technology,Phones,1,13088,0,13088,3705
+ORD-01481,06-10-2024,CUST-050,Corporate,East,Furniture,Tables,4,8786,0.2,28115,-1333
+ORD-01482,20-05-2025,CUST-123,Consumer,East,Furniture,Chairs,4,4728,0,18912,2420
+ORD-01483,29-03-2024,CUST-247,Home Office,North,Furniture,Bookcases,5,6609,0,33045,2019
+ORD-01484,05-12-2025,CUST-249,Corporate,West,Furniture,Tables,5,9178,0,45890,2306
+ORD-01485,01-08-2025,CUST-246,Consumer,North,Technology,Phones,3,15630,0.1,42201,3874
+ORD-01486,29-10-2025,CUST-108,Consumer,East,Office Supplies,Binders,7,226,0.1,1424,362
+ORD-01487,05-05-2024,CUST-018,Consumer,North,Furniture,Tables,7,7750,0.3,37975,-4042
+ORD-01488,24-09-2024,CUST-078,Corporate,North,Furniture,Chairs,1,4894,0.3,3426,-150
+ORD-01489,24-10-2024,CUST-054,Corporate,North,Furniture,Chairs,7,4051,0.2,22686,2032
+ORD-01490,06-02-2025,CUST-002,Consumer,West,Technology,Accessories,2,1316,0.1,2369,398
+ORD-01491,07-09-2024,CUST-020,Consumer,North,Furniture,Bookcases,2,6788,0.1,12218,445
+ORD-01492,29-02-2024,CUST-118,Consumer,South,Technology,Accessories,4,1709,0.1,6152,1287
+ORD-01493,25-10-2024,CUST-083,Corporate,North,Furniture,Chairs,1,4657,0,4657,823
+ORD-01494,06-08-2024,CUST-037,Consumer,West,Furniture,Bookcases,3,5782,0.3,12142,-506
+ORD-01495,03-11-2024,CUST-177,Consumer,East,Technology,Phones,2,16500,0.3,23100,297
+ORD-01496,22-06-2024,CUST-089,Home Office,West,Technology,Phones,4,13671,0,54684,11567
+ORD-01497,12-08-2024,CUST-206,Consumer,East,Technology,Accessories,6,1468,0.3,6166,309
+ORD-01498,28-04-2025,CUST-056,Corporate,East,Office Supplies,Binders,7,239,0.3,1171,173
+ORD-01499,04-11-2024,CUST-135,Consumer,East,Technology,Accessories,2,1686,0,3372,935
+ORD-01500,10-10-2024,CUST-038,Consumer,North,Office Supplies,Binders,4,281,0.3,787,130
+ORD-00092,07-09-2025,CUST-104,Corporate,West,Office Supplies,Binders,5,262,0.2,1048,196
+ORD-00076,18-01-2024,CUST-202,Home Office,East,Technology,Accessories,7,1410,0.4,5922,-87
+ORD-01265,17-11-2024,CUST-234,Home Office,West,Furniture,Bookcases,2,6862,0,13724,893
+ORD-00331,29-07-2024,CUST-166,Corporate,East,Technology,Accessories,2,1628,0,3256,793
+ORD-01350,24-07-2024,CUST-050,Consumer,East,Technology,Copiers,7,28501,0.4,119704,9114
+ORD-00775,01-07-2025,CUST-172,Consumer,East,Office Supplies,Binders,2,238,0,476,125
+ORD-01039,17-10-2025,CUST-080,Consumer,East,Technology,Phones,1,16224,0.1,14602,2543
+ORD-01286,28-08-2025,CUST-078,Consumer,North,Furniture,Chairs,3,3833,0,11499,1544
+ORD-01166,26-06-2024,CUST-153,Home Office,North,Furniture,Chairs,5,3838,0,19190,2794
+ORD-00336,30-07-2025,CUST-111,Consumer,North,Office Supplies,Binders,3,269,0.2,646,106
+ORD-00686,19-12-2025,CUST-005,Consumer,East,Office Supplies,Binders,4,273,0.1,983,275
+ORD-00182,26-10-2024,CUST-172,Consumer,West,Furniture,Tables,5,9606,0,48030,1196
+ORD-01221,18-09-2024,CUST-240,Consumer,South,Technology,Copiers,5,26918,0.1,121131,24118
+ORD-00102,24-06-2024,CUST-052,Consumer,West,Furniture,Tables,3,9352,0.4,16834,-1948
+ORD-00693,18-05-2024,CUST-030,Consumer,North,Office Supplies,Storage,5,1213,0.2,4852,-226
